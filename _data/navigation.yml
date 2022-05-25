@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "Misc"
+    url: /misc/
+    
+  - title: "CV"
+    url: /CV.pdf
+   
