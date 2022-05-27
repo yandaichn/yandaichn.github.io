@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DAI Yan | Undergrad @ IIIS"
 title_separator          : "-"
-name                     : &name "DAI Yan (戴言)"
+name                     : &name "DAI Yan / Yan Dai (戴言)"
 description              : &description "Undergrad @ IIIS, Tsinghua University."
 url                      : https://diamond-duke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
