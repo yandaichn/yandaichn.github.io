@@ -13,4 +13,4 @@ I am a sophomore in Computer Science and Technology major at [IIIS, Tsinghua](ht
 I am interested in machine learning theory, especially multi-armed bandits and reinforcement learning.
 
 ### About My Name
-Dai (戴) is my surname, while Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is also my preferred name.
+Dai (戴) is my surname, while Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is also my preferred name ordering.
