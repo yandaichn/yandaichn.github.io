@@ -28,4 +28,5 @@ Jiatai Huang\*, **Yan Dai\*** and [Longbo Huang](https://people.iiis.tsinghua.ed
 *To appear* at **ICML 2022** (Thirty-ninth International Conference on Machine Learning).
 
 ### Services
+* Reviewer for **NeurIPS 2022** (Thirty-sixth Conference on Neural Information Processing Systems).
 * Reviewer for **AISTATS 2022** (The 25th International Conference on Artificial Intelligence and Statistics).
