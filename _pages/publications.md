@@ -20,10 +20,11 @@ One may also visit my [Google Scholar profile](https://scholar.google.com/citati
 1. **Scale-Free Adversarial Multi-Armed Bandit with Arbitrary Feedback Delays** \[[arXiv](https://arxiv.org/abs/2110.13400)\]  
 Jiatai Huang\*, **Yan Dai\*** and [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).  
 *In submission*.
+{: reversed="reversed"}
 
 ### Conference Publications
 
-1. **Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits** \[[arXiv](https://arxiv.org/abs/2201.11921)\]  
+(@) **Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits** \[[arXiv](https://arxiv.org/abs/2201.11921)\]  
 Jiatai Huang\*, **Yan Dai\*** and [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).  
 *To appear* at **ICML 2022** (Thirty-ninth International Conference on Machine Learning).
 
