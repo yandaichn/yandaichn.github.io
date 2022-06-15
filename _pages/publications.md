@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-One may also visit my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4z3IAAAAJ) for more information.
+Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4z3IAAAAJ) for more up-to-date information!
 
-(* stands for equal contribution.)
+(* stands for equal contribution; listed in reverse chronological order.)
 
 ### Manuscripts
 
@@ -24,9 +24,10 @@ One may also visit my [Google Scholar profile](https://scholar.google.com/citati
 
 ### Conference Publications
 
-1.  **Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits** \[[arXiv](https://arxiv.org/abs/2201.11921)\]  
+1.  [**ICML 2022**] **Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits** \[[arXiv](https://arxiv.org/abs/2201.11921)\]  
     Jiatai Huang\*, **Yan Dai\*** and [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).  
     *To appear* at **ICML 2022** (Thirty-ninth International Conference on Machine Learning).
+{: reversed="reversed"}
 
 ### Services
 * Reviewer for **NeurIPS 2022** (Thirty-sixth Conference on Neural Information Processing Systems).
