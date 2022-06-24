@@ -28,7 +28,3 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     Jiatai Huang\*, **Yan Dai\*** and [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).  
     *To appear* at **ICML 2022** (Thirty-ninth International Conference on Machine Learning).
 {: reversed="reversed"}
-
-### Services
-* Reviewer for **NeurIPS 2022** (Thirty-sixth Conference on Neural Information Processing Systems).
-* Reviewer for **AISTATS 2022** (The 25th International Conference on Artificial Intelligence and Statistics).

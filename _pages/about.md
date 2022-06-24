@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,10 @@ I am broadly interested in machine learning theory, especially in reinforcement 
 
 ### About My Name
 Dai (戴) is my surname, while Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is also my preferred name ordering.
+
+### Services
+* Reviewer for **NeurIPS 2022** (Thirty-sixth Conference on Neural Information Processing Systems).
+* Reviewer for **AISTATS 2022** (The 25th International Conference on Artificial Intelligence and Statistics).
 
 <!-- ### News
 * [2022/06] Will serve as a reviewer for **NeurIPS 2022**!
