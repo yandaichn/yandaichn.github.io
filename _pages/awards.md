@@ -18,7 +18,7 @@ Before entering college, I competed in the olympiad of informatics (a.k.a., comp
 * **Gold** in the Chinese Olympiad in Informatics Winter Camp (WC), 2018.
 
 ### Sports
-Check [misc](../misc/) for more about this!
+Check [Miscellaneous](../misc/) for more about this!
 
 * **2nd Place** in National Collegiate Water Polo Championships, 2021.
 * **1st Place** in Men's 100m Butterfly, Tsinghua Swimming Competition, 2021-2022.
