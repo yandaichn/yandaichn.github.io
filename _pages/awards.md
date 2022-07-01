@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### Scholarship
-* **"12·9 Scholarship"** (一二·九奖学金) of Tsinghua University in 2021. This is the one of the top scholarships in Tsinghua which is awarded to *only one sophomore per department*.
-* **Second Class Scholarship for Freshmen** of Tsinghua University in 2020.
+* **"12·9 Scholarship"** (一二·九奖学金), Tsinghua University, 2021 (one of the top scholarships in Tsinghua; awarded to *only one sophomore per department*).
+* **Second Class Scholarship for Freshmen**, Tsinghua University, 2020.
 
 ### Competitive Programming
 Before entering college, I competed in the olympiad of informatics (a.k.a., competitive programming). Here lists part of my awards in OI.
