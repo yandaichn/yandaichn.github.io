@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a sophomore in Computer Science and Technology major at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **Yao Class**, directed by the Turing Award Laureate Andrew Chi-Chih Yao). I am also studying a minor in Mathematics and Applied Mathematics at [DMS, Tsinghua](https://www.math.tsinghua.edu.cn/).
+I am a sophomore majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **Yao Class**, directed by Turing Award Laureate Andrew Chi-Chih Yao). I am also pursuing a minor degree in Mathematics and Applied Mathematics at [DMS, Tsinghua](https://www.math.tsinghua.edu.cn/).
 
 I am broadly interested in machine learning theory, especially in reinforcement learning. Check my [publications](publications) or my [CV (PDF)](CV.pdf) for more information!
 
 ### About My Name
-Dai (戴) is my surname, while Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is also my preferred name ordering.
+Dai (戴) is my surname (last name) and Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is my preferred name ordering.
 
 ### Services
 * Reviewer for **NeurIPS 2022** (Thirty-sixth Conference on Neural Information Processing Systems).
 * Reviewer for **AISTATS 2022** (The 25th International Conference on Artificial Intelligence and Statistics).
-
-<!-- ### News
-* [2022/06] Will serve as a reviewer for **NeurIPS 2022**!
-* [2022/05] One paper accepted to **ICML 2022**!
-* [2021/09] Will serve as a reviewer for **AISTATS 2022**!
- -->
