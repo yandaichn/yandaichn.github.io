@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Scholarship
-* **"12·9 Scholarship"** (一二·九奖学金), Tsinghua University, 2021 (one of the top scholarships in Tsinghua; awarded to *only one sophomore per department*).
+* **"12·9 Scholarship"** (一二·九奖学金), Tsinghua University, 2021 (awarded to *only one sophomore per department*).
 * **Second Class Scholarship for Freshmen**, Tsinghua University, 2020.
 
 ### Competitive Programming
