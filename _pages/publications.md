@@ -26,5 +26,5 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 1.  [Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)  
     Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
-    *Thirty-ninth International Conference on Machine Learning* (**ICML 2022**). \[[HTML](https://proceedings.mlr.press/v162/huang22c.html)\]
+    *Thirty-ninth International Conference on Machine Learning* (**ICML 2022**).
 {: reversed="reversed"}
