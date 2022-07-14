@@ -10,7 +10,7 @@ redirect_from:
 
 I am a sophomore majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **Yao Class**, directed by Turing Award Laureate Andrew Chi-Chih Yao). I am also pursuing a minor degree in Mathematics and Applied Mathematics at [DMS, Tsinghua](https://www.math.tsinghua.edu.cn/).
 
-I am broadly interested in machine learning theory, especially in reinforcement learning. Check my [publications](publications) or my [CV (PDF)](CV.pdf) for more information!
+I am broadly interested in machine learning theory, especially in reinforcement learning. Check my [publications](publications) or my [CV (PDF)](CV_Yan.pdf) for more information!
 
 ### About My Name
 Dai (戴) is my surname (last name) and Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is my preferred name ordering.
