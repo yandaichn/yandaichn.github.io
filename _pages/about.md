@@ -13,7 +13,7 @@ I am a sophomore majoring in Computer Science and Technology at [IIIS, Tsinghua]
 I am broadly interested in machine learning theory, especially in reinforcement learning. Check my [publications](publications) or my [CV (PDF)](CV_Yan.pdf) for more information!
 
 ### About My Name
-Dai (戴) is my surname (last name) and Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is my preferred name ordering.
+Dai (戴) is my surname (last name) and Yan (言) is my given name. In Chinese, the surnames come *before* the given names. DAI Yan is hence my preferred name ordering.
 
 ### Services
 * Reviewer for **NeurIPS 2022** (Thirty-sixth Conference on Neural Information Processing Systems).
