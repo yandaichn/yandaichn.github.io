@@ -16,4 +16,4 @@ I am broadly interested in machine learning theory, especially in reinforcement 
 Dai (戴) is my surname and Yan (言) is my given name. In Chinese, the surnames come *before* the given names --- DAI Yan is also my preferred name ordering.
 
 ### Services
-* Conference reviewing for **AISTATS 2022**, **NeurIPS 2022**, **AISTATS 2023**.
+* Conference reviewing: **AISTATS 2022**, **NeurIPS 2022**, **AISTATS 2023**.
