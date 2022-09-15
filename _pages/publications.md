@@ -11,10 +11,10 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 1.  [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)  
     **Yan Dai**, Ruosong Wang, and Simon S. Du.  
-    *Manuscript. In submission*.
+    Manuscript.
 1.  [Scale-Free Adversarial Multi-Armed Bandit with Arbitrary Feedback Delays](https://arxiv.org/abs/2110.13400)  
     Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
-    *Manuscript. In submission*.
+    Manuscript.
 1.  **\[NeurIPS 2022\]** [Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)  
     **Yan Dai**, Haipeng Luo, and Liyu Chen.  
     To appear in Advances in Neural Information Processing Systems 36 (NeurIPS), 2022.
