@@ -14,3 +14,5 @@ I also enjoy swimming. In the Swimming Competition of Tsinghua (马约翰杯游�
 ![Swimming Competition of Tsinghua, 2022](../images/butterfly.jpg)
 
 I am also the leader of our institute's [swimming club](https://iiis.tsinghua.edu.cn/index.php?v=show&cid=670&id=9386) & swimming team.
+
+<!-- ![fig](../images/avatar1.jpg) ![fig](../images/avatar3.jpg) -->
