@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Scholarship
-* **National Scholarship** (国家奖学金), Ministry of Education of the People's Republic of China, 2022 (top scholarship in China; 0.2\% domestically)
+* **National Scholarship** (国家奖学金), Ministry of Education of the People's Republic of China, 2022 (top scholarship in China; 0.2% domestically)
 * **12·9 Scholarship** (一二·九奖学金), Tsinghua University, 2021 (top scholarship in Tsinghua; awarded to *only one student* per department).
 * **Second Class Scholarship for Freshmen**, Tsinghua University, 2020.
 
