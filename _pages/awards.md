@@ -7,12 +7,12 @@ author_profile: true
 
 ### Scholarship
 * **National Scholarship** (国家奖学金), Ministry of Education of the People's Republic of China, 2022.  
-(top scholarship in China; awarded to *0.2%* domestically)
+(Top scholarship in China; awarded to *0.2% undergrads* domestically)
 * **SenseTime Scholarship** (商汤奖学金), SenseTime Group Inc., 2022.  
-(awarded to *30 undergrads* domestically)
+(Awarded to *30 undergrads* domestically)
 * **12·9 Scholarship** (一二·九奖学金), Tsinghua University, 2021.  
-(top scholarship in Tsinghua; awarded to *1 student* per department)
-* **Second Class Scholarship for Freshmen**, Tsinghua University, 2020.
+(Top scholarship in Tsinghua; awarded to *1 undergrad* per department)
+* **Scholarship for Freshmen**, Tsinghua University, 2020.
 
 ### Competitive Programming
 Before entering college, I competed in the olympiad of informatics (a.k.a., competitive programming). Here lists part of my awards in OI.
