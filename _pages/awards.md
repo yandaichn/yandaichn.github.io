@@ -31,5 +31,5 @@ Check [Miscellaneous](../misc/) for more about this!
 * **5th Place** in Men's 200m Freestyle, Tsinghua Swimming Competition, 2020-2021.
 
 ### Entrepreneurship
-* **Third prize** in China International College Students' "Internet+"Innovation & Entrepreneurship Competition, Beijing Regional, 2020.  
+* **Third prize** in China International College Students' "Internet+" Innovation & Entrepreneurship Competition, Beijing Regional, 2020.  
 Supported by a *National College Student Innovation and Entrepreneurship Project*.
