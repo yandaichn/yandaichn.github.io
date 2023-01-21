@@ -12,10 +12,10 @@ Hi! I am a junior-year undergraduate student majoring in Computer Science and Te
 
 My research interests lie in learning theory (especially reinforcement learning theory and machine learning theory). Check my [publications](publications) or [CV (PDF)](CV_Yan.pdf) for more information!
 
-### Services
+## Services
 * Conference reviewing: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023.
 
-### Recent News
+## Recent News
 * **(Jan., 2023)** One paper gets accepted to ICLR 2023!
 * **(Dec., 2022)** I am awarded the SenseTime Scholarship by SenseTime!
 * **(Oct., 2022)** I am awarded the National Scholarship by Ministry of Education!
