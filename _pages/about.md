@@ -14,3 +14,11 @@ My research interests lie in learning theory (especially reinforcement learning 
 
 ### Services
 * Conference reviewing: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023.
+
+### Recent News
+* **(Jan., 2023)** One paper gets accepted to ICLR 2023!
+* **(Dec., 2022)** I am awarded the SenseTime Scholarship by SenseTime!
+* **(Oct., 2022)** I am awarded the National Scholarship by Ministry of Education!
+* **(Sep., 2022)** One paper gets accepted to NeurIPS 2023!
+* **(May., 2022)** One paper gets accepted to ICML 2022!
+* **(Oct., 2021)** I am awarded the 12·9 Scholarship by Tsinghua University!
