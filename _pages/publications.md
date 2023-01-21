@@ -9,10 +9,10 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 (* stands for equal contribution or alphabetical order. Listed in reverse chronological order.)
 
+<!-- 
 1.  Refined Regret for Adversarial MDPs with Linear Function Approximation  
-    <!-- **Yan Dai**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.   -->
     TBD.  
-    Manuscript.
+    Manuscript. -->
 1.  Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning  
     Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
     Manuscript.
