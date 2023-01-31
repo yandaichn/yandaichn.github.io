@@ -10,15 +10,15 @@ redirect_from:
 
 Hi! I am a junior-year undergraduate student majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **Yao Class**, directed by the Turing Award Laureate Andrew Chi-Chih Yao).
 
-My research interests lie in learning theory (especially reinforcement learning theory and machine learning theory). Check my [publications](publications) or [CV (PDF)](CV_Yan.pdf) for more information!
+My research interests lie broadly in learning theory, especially in reinforcement learning theory and machine learning theory. Check my [publications](publications) or [CV (PDF)](CV_Yan.pdf) for more information!
 
-## Services
-* Conference reviewing: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023.
+### Academic Services
+* **Conference Reviewing:** AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023.
 
-## Recent News
+### Recent News
 * **(Jan., 2023)** One paper gets accepted to ICLR 2023!
 * **(Dec., 2022)** I am awarded the SenseTime Scholarship by SenseTime!
 * **(Oct., 2022)** I am awarded the National Scholarship by Ministry of Education!
-* **(Sep., 2022)** One paper gets accepted to NeurIPS 2023!
-* **(May., 2022)** One paper gets accepted to ICML 2022!
+* **(Sep., 2022)** One paper gets accepted to NeurIPS 2022!
+* **(May , 2022)** One paper gets accepted to ICML 2022!
 * **(Oct., 2021)** I am awarded the 12·9 Scholarship by Tsinghua University!
