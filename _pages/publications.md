@@ -23,7 +23,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     **Yan Dai**, Haipeng Luo, and Liyu Chen.  
     To appear in *Advances in Neural Information Processing Systems 36* (NeurIPS), 2022.  
     ([slides](/files/slides_NeurIPS2022_FTPL_for_AMDP.pdf), [poster](/files/poster_NeurIPS2022_FTPL_for_AMDP.pdf))
-*   \[ICML 2022\] [Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/220* 11921)  
+*   \[ICML 2022\] [Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)  
     Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
     In *Proceedings of the 39th International Conference on Machine Learning* (ICML), 2022.  
     ([video](https://slideslive.com/38983650))
