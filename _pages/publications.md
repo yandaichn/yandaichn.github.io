@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4z3IAAAAJ) for more up-to-date information!
+Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4z3IAAAAJ) for more information!
 
-(* stands for equal contribution or alphabetical order. Listed in reverse chronological order.)
+(* stands for equal contribution. Listed in reverse chronological order.)
 
 ### Manuscripts
 *   [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)  
