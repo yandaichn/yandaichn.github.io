@@ -19,10 +19,10 @@ author_profile: true
 ### Competitive Programming (Selected)
 Before entering college, I competed in the olympiad of informatics (OI; a.k.a., competitive programming). Here lists part of my awards in OI.
 
-* **Gold** (*5th place*) in the Chinese National Olympiad in Informatics (NOI), 2018.
-* **Gold** (*with a perfect score*) in Asia-Pacific Informatics Olympiad (APIO), 2019.
-* **Gold** in the IOI China Team Selection Competition (CTSC), 2018.
-* **Gold** in the Chinese Olympiad in Informatics Winter Camp (WC), 2018.
+* **Gold** (*5th place*) in Chinese National Olympiad in Informatics (NOI), 2018.
+* **Gold** (*1st place with perfect score*) in Asia-Pacific Informatics Olympiad (APIO), 2019.
+* **Gold** in IOI China Team Selection Competition (CTSC), 2018.
+* **Gold** in Chinese Olympiad in Informatics Winter Camp (WC), 2018.
 
 ### Sports
 Check [Miscellaneous](../misc/) for more about this!
