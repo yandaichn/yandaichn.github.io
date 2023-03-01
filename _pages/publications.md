@@ -18,10 +18,10 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 ### Conference Publications
 *   \[ICLR 2023\] [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)  
     **Yan Dai**, Ruosong Wang, and Simon S. Du.  
-    Accepted to *the Eleventh International Conference on Learning Representations* (ICLR), 2023.
+    In *the Eleventh International Conference on Learning Representations* (ICLR), 2023.
 *   \[NeurIPS 2022\] [Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)   
     **Yan Dai**, Haipeng Luo, and Liyu Chen.  
-    To appear in *Advances in Neural Information Processing Systems 36* (NeurIPS), 2022.  
+    In *Advances in Neural Information Processing Systems 35* (NeurIPS), 2022.  
     ([slides](/files/slides_NeurIPS2022_FTPL_for_AMDP.pdf), [poster](/files/poster_NeurIPS2022_FTPL_for_AMDP.pdf))
 *   \[ICML 2022\] [Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)  
     Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
