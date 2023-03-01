@@ -12,9 +12,9 @@ author_profile: true
 (*30 undergrads* domestically)
 * **12·9 Scholarship** (一二·九奖学金), Tsinghua University, 2021.  
 (Top scholarship in Tsinghua; *1 undergrad* per department)
-* **Tsinghua-IIICT Scholarship**, Institute for Interdisciplinary Information Core Technology, 2022.
+<!-- * **Tsinghua-IIICT Scholarship**, Institute for Interdisciplinary Information Core Technology, 2022. -->
 * **Freshmen Scholarship**, Tsinghua University, 2020.
-* **Xue Tang Scholarship**, Tsinghua University, 2020.
+<!-- * **Xue Tang Scholarship**, Tsinghua University, 2020. -->
 
 ### Competitive Programming (Selected)
 Before entering college, I competed in the olympiad of informatics (OI; a.k.a., competitive programming). Here lists part of my awards in OI.
