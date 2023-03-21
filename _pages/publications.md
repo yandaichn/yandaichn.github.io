@@ -19,7 +19,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   \[ICLR 2023\] [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)  
     **Yan Dai**, Ruosong Wang, and Simon S. Du.  
     In *the Eleventh International Conference on Learning Representations* (ICLR), 2023.  
-    <!-- ([slides](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandit.pdf)) -->
+    ([slides](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandits.pdf))
 *   \[NeurIPS 2022\] [Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)   
     **Yan Dai**, Haipeng Luo, and Liyu Chen.  
     In *Advances in Neural Information Processing Systems 35* (NeurIPS), 2022.  
