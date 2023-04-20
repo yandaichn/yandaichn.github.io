@@ -19,12 +19,12 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   \[ICLR 2023\] [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)  
     **Yan Dai**, Ruosong Wang, and Simon S. Du.  
     In *the Eleventh International Conference on Learning Representations* (ICLR), 2023.  
-    ([slides](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandits.pdf))
+    ([slides](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandits.pdf), [video](https://iclr.cc/virtual/2023/poster/11675))
 *   \[NeurIPS 2022\] [Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)   
     **Yan Dai**, Haipeng Luo, and Liyu Chen.  
     In *Advances in Neural Information Processing Systems 35* (NeurIPS), 2022.  
-    ([slides](/files/slides_NeurIPS2022_FTPL_for_AMDP.pdf), [poster](/files/poster_NeurIPS2022_FTPL_for_AMDP.pdf))
+    ([slides](/files/slides_NeurIPS2022_FTPL_for_AMDP.pdf), [video](https://neurips.cc/virtual/2022/poster/54395))
 *   \[ICML 2022\] [Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)  
     Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
     In *Proceedings of the 39th International Conference on Machine Learning* (ICML), 2022.  
-    ([video](https://slideslive.com/38983650))
+    ([video](https://icml.cc/virtual/2022/spotlight/16610))
