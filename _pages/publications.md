@@ -9,13 +9,15 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 (* stands for equal contribution. Listed in reverse chronological order.)
 
-### Manuscripts
-*   [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)  
-    **Yan Dai**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.
-*   [Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)  
-    Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.
+<!-- ### Manuscripts -->
 
 ### Conference Publications
+*   \[ICML 2023\] [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)  
+    **Yan Dai**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
+    Accepted to *the 40th International Conference on Machine Learning* (ICML), 2023.
+*   \[ICML 2023\] [Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)  
+    Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
+    Accepted to *the 40th International Conference on Machine Learning* (ICML), 2023.
 *   \[ICLR 2023\] [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)  
     **Yan Dai**, Ruosong Wang, and Simon S. Du.  
     In *the Eleventh International Conference on Learning Representations* (ICLR), 2023.  
