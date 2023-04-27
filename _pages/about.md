@@ -19,8 +19,8 @@ My research interests lie broadly in machine learning theory, especially reinfor
 * **(Apr 2023)** Two papers accepted to ICML 2023!
 * **(Feb 2023)** Visiting MIT LIDS (hosted by [Prof. Suvrit Sra](https://optml.mit.edu/index.html))!
 * **(Jan 2023)** One paper accepted to ICLR 2023!
-* **(Dec 2022)** I am awarded SenseTime Scholarship by SenseTime!
-* **(Oct 2022)** I am awarded National Scholarship by Ministry of Education!
+* **(Dec 2022)** Awarded SenseTime Scholarship by SenseTime!
+* **(Oct 2022)** Awarded National Scholarship by Ministry of Education!
 * **(Sep 2022)** One paper accepted to NeurIPS 2022!
 * **(May 2022)** One paper accepted to ICML 2022!
-* **(Oct 2021)** I am awarded 12·9 Scholarship by Tsinghua University!
+* **(Oct 2021)** Awarded 12·9 Scholarship by Tsinghua University!
