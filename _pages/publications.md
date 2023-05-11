@@ -9,9 +9,9 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 (* stands for equal contribution. Listed in reverse chronological order.)
 
-<!-- ### Manuscripts -->
+<!-- ## Manuscripts -->
 
-### Conference Publications
+## Conference Publications
 *   **\[ICML 2023\] [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
     **<font color="blue">Yan Dai</font>**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
     Accepted to *the 40th International Conference on Machine Learning* (ICML), 2023.
@@ -30,3 +30,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
     In *Proceedings of the 39th International Conference on Machine Learning* (ICML), 2022.  
     ([video](https://icml.cc/virtual/2022/spotlight/16610))
+
+
+## Services
+* **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023, NeurIPS 2023.

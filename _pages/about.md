@@ -14,10 +14,7 @@ My research interests lie broadly in **learning theory**, especially reinforceme
 
 Feel free to reach out if you have anything to chat!
 
-### Academic Services
-* **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023, NeurIPS 2023.
-
-### Recent News
+## Recent News
 * *Apr, 2023.* [Refined Regret for Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Feedback](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**!
 * *Feb, 2023.* Visiting **[Prof. Suvrit Sra](https://optml.mit.edu/index.html) @ MIT LIDS**!
 * *Jan, 2023.* [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**!
