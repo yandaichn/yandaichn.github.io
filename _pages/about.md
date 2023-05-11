@@ -13,7 +13,7 @@ Hi! I am a junior-year undergraduate student majoring in Computer Science and Te
 My research interests lie broadly in machine learning theory, especially reinforcement learning theory and deep learning theory. Check my [publications](publications) and [CV (PDF)](CV_Yan.pdf) for more information!
 
 ### Academic Services
-* **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023.
+* **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023, NeurIPS 2023.
 
 ### Recent News
 * *Apr, 2023.* Two papers ([Refined Regret for Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Feedback](https://arxiv.org/abs/2301.10500)) accepted to **ICML 2023**!
