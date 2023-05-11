@@ -16,11 +16,11 @@ My research interests lie broadly in machine learning theory, especially reinfor
 * **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023.
 
 ### Recent News
-* **Apr, 2023.** Two papers ([Refined Regret for Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Feedback](https://arxiv.org/abs/2301.10500)) accepted to ICML 2023!
-* **Feb, 2023.** Visiting [Prof. Suvrit Sra](https://optml.mit.edu/index.html) at MIT LIDS!
-* **Jan, 2023.** One paper ([Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)) accepted to ICLR 2023!
-* **Dec, 2022.** Awarded SenseTime Scholarship by SenseTime!
-* **Oct, 2022.** Awarded National Scholarship by Ministry of Education!
-* **Sep, 2022.** One paper ([FTPL in Adversarial MDPs with Bandit Feedback](https://arxiv.org/abs/2205.13451)) accepted to NeurIPS 2022!
-* **May, 2022.** One paper ([Best-of-Both-Worlds for Heavy-Tailed MABs](https://arxiv.org/abs/2201.11921)) accepted to ICML 2022!
-* **Oct, 2021.** Awarded 12·9 Scholarship by Tsinghua University!
+* *Apr, 2023.* Two papers ([Refined Regret for Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Feedback](https://arxiv.org/abs/2301.10500)) accepted to **ICML 2023**!
+* *Feb, 2023.* Visiting **[Prof. Suvrit Sra](https://optml.mit.edu/index.html)** at MIT LIDS!
+* *Jan, 2023.* One paper ([Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)) accepted to **ICLR 2023**!
+* *Dec, 2022.* Awarded **SenseTime Scholarship** by SenseTime!
+* *Oct, 2022.* Awarded **National Scholarship** by Ministry of Education!
+* *Sep, 2022.* One paper ([FTPL in Adversarial MDPs with Bandit Feedback](https://arxiv.org/abs/2205.13451)) accepted to **NeurIPS 2022**!
+* *May, 2022.* One paper ([Best-of-Both-Worlds for Heavy-Tailed MABs](https://arxiv.org/abs/2201.11921)) accepted to **ICML 2022**!
+* *Oct, 2021.* Awarded **12·9 Scholarship** by Tsinghua University!
