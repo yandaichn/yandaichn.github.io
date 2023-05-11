@@ -5,17 +5,23 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Variance-Aware Sparse Linear Bandits**  
+* **[Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
+  Yan Dai, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
+  *@International Conference on Machine Learning (ICML)*, Hawaii Convention Center, Jul 2023.
+* **[Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
+  Jiatai Huang\*, Yan Dai\*, and Longbo Huang.  
+  *@International Conference on Machine Learning (ICML)*, Hawaii Convention Center, Jul 2023.
+* **[Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)**  
   Yan Dai, Ruosong Wang, and Simon S. Du.  
   *@ International Conference on Learning Representations (ICLR)*, Kigali Convention Centre, May 2023.  
   *@ [FAI-Seminar](https://www.tengjiaye.com/seminar.html)*, Online, Apr 2023.  
   *@ [Yao Class Seminar](https://group.iiis.tsinghua.edu.cn/~stu/seminar/)*, Tsinghua University, Mar 2023.  
   [\[slides\]](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandits.pdf)
-* **Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback**  
+* **[Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)**  
   Yan Dai, Haipeng Luo, and Liyu Chen.  
-  *@ Conference on Neural Information Processing Systems (NeurIPS)*, New Orleans Convention Center, Dec 2022.  
+  *@ Conference on Neural Information Processing Systems (NeurIPS)*, Online, Dec 2022.  
   [\[slides\]](/files/slides_NeurIPS2022_FTPL_for_AMDP.pdf)
-* **Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits**  
+* **[Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)**  
   Jiatai Huang\*, Yan Dai\*, and Longbo Huang.  
   *@ SparkDay (in Chinese)*, Tsinghua University, May 2022.  
   [\[slides (in Chinese)\]](/files/slides_ICML2022_BoBW_Heavy_Tail_MAB.pdf)
