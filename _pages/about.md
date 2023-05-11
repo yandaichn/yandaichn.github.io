@@ -10,7 +10,9 @@ redirect_from:
 
 Hi! I am a junior-year undergraduate student majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **Yao Class**, directed by the Turing Award Laureate [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
-My research interests lie broadly in machine learning theory, especially reinforcement learning theory and deep learning theory. Check my [publications](publications) and [CV (PDF)](CV_Yan.pdf) for more information!
+My research interests lie broadly in **learning theory**, especially reinforcement learning theory and deep learning theory. Check my [publications](publications) and [CV (PDF)](CV_Yan.pdf) for more information!
+
+Feel free to reach out if you have anything to chat!
 
 ### Academic Services
 * **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023, NeurIPS 2023.
