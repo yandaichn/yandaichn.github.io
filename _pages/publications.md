@@ -9,7 +9,9 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 (* stands for equal contribution. Listed in reverse chronological order.)
 
-<!-- ## Manuscripts -->
+## Manuscripts
+*   **[The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
+    **<font color="blue">Yan Dai*</font>**, Kwangjun Ahn, and Suvrit Sra.
 
 ## Conference Publications
 *   **\[ICML 2023\] [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
