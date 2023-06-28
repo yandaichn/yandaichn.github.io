@@ -21,7 +21,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   **\[ICML 2023\] [Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
     Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
     Accepted to *the 40th International Conference on Machine Learning* (ICML), 2023.  
-    ([video](https://icml.cc/virtual/2023/poster/24900))
+    ([slides](/files/slides_ICML2023_Banker_OMD.pdf), [video](https://icml.cc/virtual/2023/poster/24900))
 *   **\[ICLR 2023\] [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)**  
     **<font color="blue">Yan Dai</font>**, Ruosong Wang, and Simon S. Du.  
     In *the Eleventh International Conference on Learning Representations* (ICLR), 2023.  

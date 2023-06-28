@@ -11,7 +11,8 @@ author_profile: true
   [\[slides\]](/files/slides_ICML2023_Linear_AMDP.pdf)
 * **[Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
   Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
-  *@ International Conference on Machine Learning (ICML)*, Hawaii Convention Center, Jul 2023.
+  *@ International Conference on Machine Learning (ICML)*, Hawaii Convention Center, Jul 2023.  
+  [\[slides\]](/files/slides_ICML2023_Banker_OMD.pdf)
 * **[Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)**  
   **Yan Dai**, Ruosong Wang, and Simon S. Du.  
   *@ International Conference on Learning Representations (ICLR)*, Kigali Convention Centre, May 2023.  
