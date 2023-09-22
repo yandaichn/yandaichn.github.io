@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Scholarship
+* **Yao Award Gold Medal**, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, 2023.  
+(Top scholarship in IIIS; 1 student institute-wide per year)
 * **National Scholarship** (国家奖学金), Ministry of Education of the People's Republic of China, 2022.  
 (Top scholarship in China; *0.2% undergrads* domestically)
 * **SenseTime Scholarship** (商汤奖学金), SenseTime, 2022.  
