@@ -20,7 +20,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   **\[ICML 2023\] [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
     **<font color="blue">Yan Dai</font>**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
     In *Proceedings of the 40th International Conference on Machine Learning* (ICML), 2023.  
-    ([slides](/files/slides_ICML2023_Linear_AMDP.pdf), [video](https://icml.cc/virtual/2023/poster/24760))
+    ([slides (long)](/files/slides_ICML2023_Linear_AMDP.pdf), [slides (short)](/files/slides_ICML2023_Linear_AMDP_Short.pdf), [video](https://icml.cc/virtual/2023/poster/24760))
 *   **\[ICML 2023\] [Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
     Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
     In *Proceedings of the 40th International Conference on Machine Learning* (ICML), 2023.  

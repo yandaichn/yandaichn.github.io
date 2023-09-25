@@ -8,6 +8,7 @@ author_profile: true
 * **[Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
   **Yan Dai**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
   *@ International Conference on Machine Learning (ICML)*, Hawaii Convention Center, Jul 2023.  
+  *@ Collaborative Innovation Center of Novel Software Technology and Industrialization*, Nanjing University, Sep 2023.  
   [\[slides\]](/files/slides_ICML2023_Linear_AMDP.pdf)
 * **[Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
   Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
