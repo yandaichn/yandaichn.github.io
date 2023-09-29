@@ -16,7 +16,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 ## Conference Publications
 *   **\[NeurIPS 2023\] [The Curious Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
     **<font color="blue">Yan Dai*</font>**, Kwangjun Ahn\*, and Suvrit Sra.  
-    Accepted to *the 37th Conference on Neural Information Processing Systems*, 2023.
+    Accepted to *the 37th Conference on Neural Information Processing Systems* (NeurIPS), 2023.
 *   **\[ICML 2023\] [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
     **<font color="blue">Yan Dai</font>**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
     In *Proceedings of the 40th International Conference on Machine Learning* (ICML), 2023.  
