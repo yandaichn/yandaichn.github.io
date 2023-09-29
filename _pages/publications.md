@@ -9,9 +9,9 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 (* stands for equal contribution. Listed in reverse chronological order.)
 
-## Manuscripts
+<!-- ## Manuscripts
 *   **Optimal Rates for Markov Games with Independent Linear Function Approximation**  
-    **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du.
+    **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du. -->
 
 ## Conference Publications
 *   **\[NeurIPS 2023\] [The Curious Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
