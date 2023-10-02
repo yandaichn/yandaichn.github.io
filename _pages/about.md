@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior-year undergraduate student majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (a.k.a. **Yao Class**, directed by the Turing Award Laureate [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+Hi! I am a final-year (senior) undergrad majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (*a.k.a.* **Yao Class**, directed by the Turing Award Laureate [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
 My research interests lie broadly in **Theoretical Machine Learning**, e.g., Reinforcement Learning Theory and Deep Learning Theory. Check my [publications](publications) and [CV (PDF)](CV_Yan.pdf) for more information!
 
