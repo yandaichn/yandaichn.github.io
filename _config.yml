@@ -11,9 +11,9 @@ title                    : "Yan DAI @ IIIS, Tsinghua"
 title_separator          : "-"
 name                     : &name "Yan DAI (戴言)"
 description              : &description "Undergrad @ IIIS, Tsinghua University."
-url                      : https://yan-dai-chn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ydai03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yan-dai-chn/yan-dai-chn.github.io"
+repository               : "ydai03/ydai03.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
