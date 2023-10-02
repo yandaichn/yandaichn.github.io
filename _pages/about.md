@@ -27,5 +27,5 @@ Feel free to reach out if you have anything to chat!
 * *May, 2022.* [**Best-of-Both-Worlds Algorithms for Heavy-Tailed MABs**](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
 * *Oct, 2021.* Awarded **12·9 Scholarship** by Tsinghua University!
 
-## Academic Services
-* **Conference Reviewing**: AISTATS 2022, NeurIPS 2022, AISTATS 2023, ALT 2023, ICML 2023, NeurIPS 2023.
+## Professional Services
+* **Conference Reviewing**: ICLR 2024, NeurIPS 2023, ICML 2023, ALT 2023, AISTATS 2023, NeurIPS 2022, AISTATS 2022.
