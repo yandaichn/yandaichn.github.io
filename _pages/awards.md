@@ -6,17 +6,10 @@ author_profile: true
 ---
 
 ## Scholarship
-* **Yao Award Gold Medal**, Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, 2023.  
-(Top scholarship in IIIS; 1 student institute-wide per year)
-* **National Scholarship** (国家奖学金), Ministry of Education of the People's Republic of China, 2022.  
-(Top scholarship in China; *0.2% undergrads* domestically)
-* **SenseTime Scholarship** (商汤奖学金), SenseTime, 2022.  
-(*30 undergrads* domestically)
-* **12·9 Scholarship** (一二·九奖学金), Tsinghua University, 2021.  
-(Top scholarship in Tsinghua; *1 undergrad* per department)
-<!-- * **Tsinghua-IIICT Scholarship**, Institute for Interdisciplinary Information Core Technology, 2022. -->
-* **Freshmen Scholarship**, Tsinghua University, 2020.
-<!-- * **Xue Tang Scholarship**, Tsinghua University, 2020. -->
+* **Andrew C. Yao Award, Gold Medal**, IIIS, Tsinghua University, 2023.
+* **National Scholarship** (国家奖学金), Ministry of Education of the People's Republic of China, 2022.
+* **SenseTime Scholarship** (商汤奖学金), SenseTime, 2022.
+* **12·9 Scholarship** (一二·九奖学金), Tsinghua University, 2021.
 
 ## Competitive Programming (Selected)
 Before entering college, I competed in the olympiad of informatics (OI; a.k.a., competitive programming). Here lists part of my awards in OI.
