@@ -20,8 +20,8 @@ Before entering Tsinghua, I competed in the olympiad of informatics (OI; a.k.a.,
 
 Here lists part of my awards in OI.
 
-* **Gold** (*5th place*) in Chinese National Olympiad in Informatics (NOI), 2018.
 * **Gold** (*1st place with perfect score*) in Asia-Pacific Informatics Olympiad (APIO), 2019.
+* **Gold** (*5th place*) in Chinese National Olympiad in Informatics (NOI), 2018.
 * **Gold** in IOI China Team Selection Competition (CTSC), 2018.
 * **Gold** in Chinese Olympiad in Informatics Winter Camp (WC), 2018.
 
