@@ -12,7 +12,7 @@ Hi! I am a final-year (senior) undergrad majoring in Computer Science and Techno
 
 My research interests lie broadly in **Learning Theory**, e.g., Reinforcement Learning Theory and Deep Learning Theory. Check my [publications](publications) and [CV (PDF)](CV_Yan.pdf) for more information!
 
-Feel free to reach out if you have anything to chat!
+I am also open to other topics. Feel free to reach out if you would like to chat!
 
 ## Recent News
 * *Sep, 2023.* [**Curious Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
