@@ -7,7 +7,8 @@ author_profile: true
 
 * **[The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
   **Yan Dai\***, Kwangjun Ahn\*, and Suvrit Sra.  
-  *@ Conference on Neural Information Processing Systems (NeurIPS)*, Online, Dec 2023.
+  *@ Conference on Neural Information Processing Systems (NeurIPS)*, Online, Dec 2023.  
+  [\[slides\]](/files/slides_NeurIPS2023_Normalization_in_SAM.pdf)
 * **[Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
   **Yan Dai**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
   *@ National Key Laboratory for Novel Software Technology*, Nanjing University, Sep 2023.  
