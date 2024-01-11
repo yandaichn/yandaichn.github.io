@@ -7,8 +7,8 @@ author_profile: true
 
 ## Scholarship
 * **Presidential Schorlarship** (特等奖学金), Tsinghua University, 2023.  
-  *Top scholarship for Tsinghua undergrads. 10 students per year (10/12,000+).*
-* **Andrew C. Yao Award, Gold Medal**, IIIS, Tsinghua University, 2023.  
+  *Top scholarship for Tsinghua undergrads. 10 students per year.*
+* **"Andrew C. Yao Award" Gold Medal**, IIIS, Tsinghua University, 2023.  
   *Top scholarship in Yao Class. 1 student institute-wide.*
 * **National Scholarship** (国家奖学金), Ministry of Education, 2022.  
   *Top scholarship in China. 0.2% domestically.*
