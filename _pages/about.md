@@ -14,6 +14,8 @@ My research interests lie broadly in **Learning Theory**, e.g., Reinforcement Le
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
 ## Recent News
+* *May, 2024.* [**Refined Sample Complexity for Linear Markov Games**](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
+* *May, 2024.* [**Adam is FTRL in Disguise**](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
 * *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua!
 * *Sep, 2023.* [**Crucial Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
 * *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal** by IIIS, Tsinghua!
