@@ -13,7 +13,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   **\[COLT 2024\] [Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  
     **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du.  
     Accepted to *the 37th Annual Conference on Learning Theory* (COLT), 2024.
-*   **[Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567)**  
+*   **\[ICML 2024\] [Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567)**  
     Kwangjun Ahn, Zhiyu Zhang, Yunbum Kook, and **<font color="blue">Yan Dai</font>**.  
     Accepted to *the 41st International Conference on Machine Learning* (ICML), 2024.
 *   **\[NeurIPS 2023\] [The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
