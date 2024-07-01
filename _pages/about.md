@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year (senior) undergrad majoring in Computer Science and Technology at [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (*a.k.a.* **Yao Class**, directed by the Turing Award Laureate [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+Hi! I have just graduated from [IIIS, Tsinghua](https://iiis.tsinghua.edu.cn/en/) (*a.k.a.* **Yao Class**, directed by the Turing Award Laureate [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), earning a Bachelor of Engineering in Computer Science and Technology. I am extremely grateful to [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/), [Prof. Haipeng Luo](https://haipeng-luo.net/), [Prof. Simon S. Du](https://simonshaoleidu.com/), and [Prof. Suvrit Sra](https://optml.mit.edu/) who introduced me to the world of learning theory!
 
 My research interests lie broadly in **Learning Theory**, e.g., Reinforcement Learning Theory and Deep Learning Theory. Check my [publications](publications) and [CV (PDF)](CV_Yan.pdf) for more information!
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
 ## Recent News
+* *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **Outstanding Graduate** by Beijing Ministry of Education, by Tsinghua University, and by IIIS!
 * *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua!
 * *Sep, 2023.* [**Crucial Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
 * *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal** by IIIS, Tsinghua!
@@ -28,4 +29,4 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 * *Oct, 2021.* Awarded **"12·9" Scholarship** by Tsinghua!
 
 ## Professional Services
-* **Conference Reviewing**: ICLR 2024, NeurIPS 2023, ICML 2023, ALT 2023, AISTATS 2023, NeurIPS 2022, AISTATS 2022.
+* **Conference Reviewing**: NeurIPS 2024 / 2023 / 2022, ICLR 2024, ICML 2023, ALT 2023, AISTATS 2023 / 2022.

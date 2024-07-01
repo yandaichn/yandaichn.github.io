@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yan DAI @ IIIS, Tsinghua"
 title_separator          : "-"
 name                     : &name "Yan DAI (戴言)"
-description              : &description "Undergrad @ IIIS, Tsinghua University."
+description              : &description ""
 url                      : https://ydai03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ydai03/ydai03.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan DAI (戴言)"
   avatar           : "avatar4.jpg"
-  bio              : "Hi there! I am an undergrad @ Yao Class, IIIS, Tsinghua."
+  bio              : "I have just graduated from Yao Class, IIIS, Tsinghua. Nice to meet you!"
   location         : 
   employer         : 
   pubmed           : 
