@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan DAI @ IIIS, Tsinghua"
+title                    : "Yan DAI (戴言)"
 title_separator          : "-"
 name                     : &name "Yan DAI (戴言)"
 description              : &description ""
@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gkG4z3IAAAAJ"
-  email            : "yan-dai20@mails.tsinghua.edu.cn"
+  email            : "yan.dai.chn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   dblp             : "https://dblp.org/pid/132/2047-2.html"
   uri              :
