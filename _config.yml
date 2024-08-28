@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan DAI (戴言) @ ORC, MIT"
+title                    : "Yan DAI (戴言)"
 title_separator          : "-"
 name                     : &name "Yan DAI (戴言)"
 description              : &description ""
