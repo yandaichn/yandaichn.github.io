@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan DAI (戴言)"
+title                    : "Yan DAI (戴言) @ ORC, MIT"
 title_separator          : "-"
 name                     : &name "Yan DAI (戴言)"
 description              : &description ""
-url                      : https://ydai03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yandaichn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ydai03/ydai03.github.io"
+repository               : "yandaichn/yandaichn.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yan DAI (戴言)"
   avatar           : "avatar_graduation.jpg"
-  bio              : "I have just graduated from Yao Class, IIIS, Tsinghua. Nice to meet you!"
+  bio              : "I am a first-year PhD student @ ORC, MIT. Nice to meet you!"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gkG4z3IAAAAJ"
-  email            : "yan.dai.chn@gmail.com"
+  email            : "yandai20@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   dblp             : "https://dblp.org/pid/132/2047-2.html"
   uri              :

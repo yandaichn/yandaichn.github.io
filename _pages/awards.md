@@ -33,7 +33,3 @@ Check [Miscellaneous](../misc/) for more information!
 * **1st Place** in Men's 100m Butterfly, Tsinghua Swimming Competition, 2021-2022.
 * **3rd Place** in Men's 200m Medley, Tsinghua Swimming Competition, 2021-2022.
 * **1st Place** in MIT Intramurals Water Polo League (IM League), 2023.
-
-## Entrepreneurship
-* **Third prize** in China International College Students' "Internet+" Innovation & Entrepreneurship Competition, Beijing Regional, 2020.  
-Supported by a *National College Student Innovation and Entrepreneurship Project*.
