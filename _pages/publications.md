@@ -11,7 +11,8 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 ## Manuscripts
 *   **Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks**  
-    **<font color="blue">Yan Dai</font>** and Longbo Huang.
+    **<font color="blue">Yan Dai</font>** and Longbo Huang.  
+    *In submission*.
 
 ## Conference Publications
 *   **\[COLT 2024\] [Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  

@@ -18,9 +18,7 @@ author_profile: true
   *Top scholarship for Tsinghua sophomores. 1 student per major.*
 
 ## Competitive Programming (Selected)
-Before entering Tsinghua, I competed in the olympiad of informatics (OI; a.k.a., competitive programming).
-
-Here lists part of my awards in OI.
+Before entering Tsinghua, I competed in the olympiad of informatics (OI; a.k.a., competitive programming). Here lists part of my awards in OI.
 * **Gold** (*1st place with perfect score*) in Asia-Pacific Informatics Olympiad (APIO), 2019.
 * **Gold** (*5th place*) in Chinese National Olympiad in Informatics (NOI), 2018.
 * **Gold** in Asia-Pacific Informatics Olympiad (APIO), 2018.
