@@ -14,6 +14,7 @@ Prior to MIT, I graduated from [**Yao Class, Tsinghua**](https://iiis.tsinghua.e
 My research interests lie broadly in **Learning Theory**, especially Reinforcement Learning Theory and Deep Learning Theory -- check my [**publications**](publications) or [**CV (PDF)**](CV_Yan.pdf) for more information. I am open to other topics, so feel free to reach out if you'd like to chat!
 
 ## Recent News
+* *Sep, 2024.* [**Adversarial Network Optimization under Bandit Feedback**](https://arxiv.org/abs/2408.16215) accepted to **ACM SIGMETRICS 2025**!
 * *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **Outstanding Graduate** by Beijing Ministry of Education, by Tsinghua University, and by IIIS!
 * *May, 2024.* [**Refined Linear Markov Games**](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
 * *May, 2024.* [**Adam is FTRL in Disguise**](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
