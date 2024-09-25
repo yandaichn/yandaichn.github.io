@@ -29,4 +29,4 @@ My research interests lie broadly in **Learning Theory**, especially Reinforceme
 
 ## Professional Services
 * **Journal Reviewing**: JMLR 2024.
-* **Conference Reviewing**: NeurIPS 2024 / 2023 / 2022, ICLR 2024, ICML 2023, ALT 2023, AISTATS 2023 / 2022.
+* **Conference Reviewing**: NeurIPS 2024 / 2023 / 2022, ICLR 2025 / 2024, ICML 2023, ALT 2023, AISTATS 2025 / 2023 / 2022.
