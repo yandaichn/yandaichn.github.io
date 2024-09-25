@@ -27,7 +27,7 @@ Before entering Tsinghua, I competed in the olympiad of informatics (OI; a.k.a.,
 
 ## Swimming & Water Polo
 Check [Miscellaneous](../misc/) for more information!
+* **1st Place** in MIT Intramurals Water Polo League (IM League), 2023.
 * **2nd Place** in National Collegiate Water Polo Championships, 2021.
 * **1st Place** in Men's 100m Butterfly, Tsinghua Swimming Competition, 2021-2022.
 * **3rd Place** in Men's 200m Medley, Tsinghua Swimming Competition, 2021-2022.
-* **1st Place** in MIT Intramurals Water Polo League (IM League), 2023.
