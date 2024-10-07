@@ -18,7 +18,7 @@ My research interests lie broadly in **Learning Theory**, especially Reinforceme
 * *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **Outstanding Graduate** by Beijing Ministry of Education, by Tsinghua University, and by IIIS!
 * *May, 2024.* [**Refined Linear Markov Games**](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
 * *May, 2024.* [**Adam is FTRL in Disguise**](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
-* *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua, 10 students per year!
+* *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua, 10 undergrads per year!
 * *Sep, 2023.* [**Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
 * *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal** by IIIS, Tsinghua!
 * *Jun, 2023.* Visiting **[Prof. Simon S. Du](https://simonshaoleidu.com/) @ UW Paul G. Allen School**!
