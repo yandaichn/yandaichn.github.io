@@ -11,7 +11,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 
 ## Manuscripts
 *   **[uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
-    Yu Chen, Jiatai Huang, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
+    Yu Chen*, Jiatai Huang*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
     *In submission*.
 
 ## Conference Publications
