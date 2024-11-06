@@ -10,10 +10,10 @@ author_profile: true
   *Top scholarship for Tsinghua undergrads. 10/16,000+ university-wide.*
 * **"Andrew C. Yao Award" Gold Medal**, IIIS, Tsinghua University, 2023.  
   *Top scholarship in Yao Class. 1 student institute-wide.*
-* **National Scholarship** (国家奖学金), Ministry of Education, 2022.  
+<!-- * **National Scholarship** (国家奖学金), Ministry of Education, 2022.  
   *Top scholarship in China. 0.2% domestically.*
 * **SenseTime AI Scholarship** (商汤奖学金), SenseTime, 2022.  
-  *Awarded to 30 students in AI research domestically.*
+  *Awarded to 30 students in AI research domestically.* -->
 * **"12·9" Scholarship** (一二·九奖学金), Tsinghua University, 2021.  
   *Top scholarship for Tsinghua sophomores. 1 student per major.*
 
