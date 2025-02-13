@@ -10,11 +10,14 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 (* stands for equal contribution. Listed reverse chronologically.)
 
 ## Manuscripts
-*   **[uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
-    Yu Chen\*, Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
+*   **[Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
+    **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
     *In submission*.
 
 ## Conference Publications
+*   **\[ICLR 2025\] [uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
+    Yu Chen\*, Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.
+    <!-- *In submission*. -->
 *   **\[SIGMETRICS 2025\] [Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://arxiv.org/abs/2408.16215)**  
     **<font color="blue">Yan Dai</font>** and Longbo Huang.  
     <!-- Accepted to *the Annual Conference of the ACM Special Interest Group on Performance Evaluation*, 2025. -->
