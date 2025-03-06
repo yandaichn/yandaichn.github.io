@@ -30,5 +30,5 @@ My research interests lie broadly in **learning theory** -- check my [**publicat
 * *May, 2022.* [**Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
 
 ## Professional Services
-* **Journal Reviewing**: Journal of Machine Learning, Performance Evaluation.
-* **Conference Reviewing**: ICML 2025 / 2023, NeurIPS 2024 / 2023 / 2022, AISTATS 2025 / 2023 / 2022, ICLR 2025 / 2024, ALT 2023.
+* **Journal Reviewing**: Journal of Machine Learning (JMLR) 2024, Performance Evaluation 2024.
+* **Conference Reviewing**: COLT 2025, ICML 2025 / 2023, NeurIPS 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2025 / 2023 / 2022, ALT 2023.
