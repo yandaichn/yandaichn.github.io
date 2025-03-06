@@ -22,9 +22,7 @@ My research interests lie broadly in **learning theory** -- check my [**publicat
 * *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua -- 10 undergrads per year!
 * *Sep, 2023.* [**Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
 * *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal** by Yao Class -- 1 student per year!
-* *Jun, 2023.* Visiting **[Prof. Simon S. Du](https://simonshaoleidu.com/) @ UW Paul G. Allen School**!
 * *Apr, 2023.* [**Refined Adversarial Linear(-Q) MDPs**](https://arxiv.org/abs/2301.12942) and [**Banker-OMD Framework for Delayed Bandits**](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**!
-* *Feb, 2023.* Visiting **[Prof. Suvrit Sra](https://optml.mit.edu/index.html) @ MIT LIDS**!
 * *Jan, 2023.* [**Variance-Aware Sparse Linear Bandits**](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**!
 * *Sep, 2022.* [**FTPL in Adversarial MDPs**](https://arxiv.org/abs/2205.13451) accepted to **NeurIPS 2022**!
 * *May, 2022.* [**Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
