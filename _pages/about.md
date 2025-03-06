@@ -2,24 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I am a first-year PhD student @ ORC, MIT. Nice to meet you!
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: avatar_graduation.jpg
+  image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a first-year PhD student at [**Operations Research Center (ORC), MIT**](https://orc.mit.edu/) where I am fortunate to be co-advised by [**Prof. Patrick Jaillet**](https://web.mit.edu/jaillet/www/) and [**Prof. Negin Golrezaei**](https://www.mit.edu/~golrezae/). I am also affiliated with [**Laboratory for Information and Decision Systems (LIDS), MIT**](https://lids.mit.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to MIT, I earned my Bachelor's degree from [**Yao Class, Tsinghua**](https://iiis.tsinghua.edu.cn/en/) in June 2024. I am extremely grateful to [**Prof. Longbo Huang**](https://people.iiis.tsinghua.edu.cn/~huang/), [**Prof. Haipeng Luo**](https://haipeng-luo.net/), [**Prof. Simon S. Du**](https://simonshaoleidu.com/), and [**Prof. Suvrit Sra**](https://optml.mit.edu/) who introduced me to the world of learning theory!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie broadly in **learning theory** -- check my [**publications**](publications) or [**CV (PDF)**](CV_Yan.pdf) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat!
+
+## Recent News
+* *Jan, 2025.* [**Refined Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025**!
+* *Sep, 2024.* [**Adversarial Network Optimization under Bandit Feedback**](https://arxiv.org/abs/2408.16215) accepted to **ACM SIGMETRICS 2025**!
+* *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **Outstanding Graduate** by Beijing, by Tsinghua, and by Yao Class!
+* *May, 2024.* [**Refined Linear Markov Games**](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
+* *May, 2024.* [**Adam is FTRL in Disguise**](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
+* *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua -- 10 undergrads per year!
+* *Sep, 2023.* [**Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
+* *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal** by Yao Class -- 1 student per year!
+* *Apr, 2023.* [**Refined Adversarial Linear(-Q) MDPs**](https://arxiv.org/abs/2301.12942) and [**Banker-OMD Framework for Delayed Bandits**](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**!
+* *Jan, 2023.* [**Variance-Aware Sparse Linear Bandits**](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**!
+* *Sep, 2022.* [**FTPL in Adversarial MDPs**](https://arxiv.org/abs/2205.13451) accepted to **NeurIPS 2022**!
+* *May, 2022.* [**Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
+
+## Professional Services
+* **Journal Reviewing**: Journal of Machine Learning (JMLR) 2024, Performance Evaluation 2024.
+* **Conference Reviewing**: COLT 2025, ICML 2025 / 2023, NeurIPS 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2025 / 2023 / 2022, ALT 2023.
