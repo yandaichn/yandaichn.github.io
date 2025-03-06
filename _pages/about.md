@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a first-year PhD student @ ORC, MIT. Nice to meet you!
+subtitle: First-year PhD student @ ORC, MIT
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! I am a first-year PhD student at [**Operations Research Center (ORC), MIT**](https://orc.mit.edu/) where I am fortunate to be co-advised by [**Prof. Patrick Jaillet**](https://web.mit.edu/jaillet/www/) and [**Prof. Negin Golrezaei**](https://www.mit.edu/~golrezae/). I am also affiliated with [**Laboratory for Information and Decision Systems (LIDS), MIT**](https://lids.mit.edu/).
