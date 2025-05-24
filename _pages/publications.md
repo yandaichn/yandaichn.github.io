@@ -17,7 +17,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
     *In submission*.  
     <!-- Preliminiary version accepted to *the 38th Annual Conference on Learning Theory* (COLT), 2025. -->
-*   **\[POMACS & ACM SIGMETRICS 2025\] [Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://arxiv.org/abs/2408.16215)**  
+*   **\[POMACS & ACM SIGMETRICS 2025\] [Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://dl.acm.org/doi/10.1145/3700413)**  
     **<font color="blue">Yan Dai</font>** and Longbo Huang.  
     In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (POMACS), 8(3):31, 2024.  
     <!-- Extended abstract accepted to *the Annual Conference of the ACM Special Interest Group on Performance Evaluation* (ACM SIGMETRICS), 2025.  -->
