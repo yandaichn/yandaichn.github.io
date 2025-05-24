@@ -27,7 +27,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   **\[ICLR 2025\] [uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
     Yu Chen\*, Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
     <!-- Accepted to *the 13th International Conference on Learning Representations* (ICLR), 2025.   -->
-    Named as a *<font color="red">Spotlight Paper (5.1\%)</font>* at ICLR 2025.
+    Named as a *<font color="red">Spotlight Paper (5.1%)</font>* at ICLR 2025.
 *   **\[COLT 2024\] [Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  
     **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du.  
     <!-- Extended Abstract accepted to *the 37th Annual Conference on Learning Theory* (COLT), 2024.   -->
