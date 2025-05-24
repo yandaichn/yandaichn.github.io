@@ -14,10 +14,10 @@ Prior to MIT, I earned my Bachelor's degree from [**Yao Class, Tsinghua**](https
 My research interests lie broadly in **EconCS** and **learning theory** -- check my [**publications**](publications) or [**CV (PDF)**](CV_Yan.pdf) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat!
 
 ## Recent News
-* *May, 2025.* [Adversarial Network Optimization under Bandit Feedback](https://arxiv.org/abs/2408.16215) selected as **<font color="blue">Best Paper Finalist (5 in total)</font>** at ACM SIGMETRICS 2025!
+* *May, 2025.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) selected as **<font color="blue">Best Paper Finalist (5 in total)</font>** at ACM SIGMETRICS 2025!
 * *May, 2025.* [Non-Monetary Mechanism Design without Distributions](https://arxiv.org/abs/2502.08412) accepted to **COLT 2025**!
 * *Jan, 2025.* [Refined Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025** as a Spotlight Paper (5.1%)!
-* *Dec, 2024.* [Adversarial Network Optimization under Bandit Feedback](https://arxiv.org/abs/2408.16215) published in the ACM journal **POMACS**!
+* *Dec, 2024.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) published in the ACM journal **POMACS**!
 * *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **<font color="blue">Outstanding Graduate</font>** by Beijing, by Tsinghua, and by Yao Class!
 * *May, 2024.* [Refined Linear Markov Games](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
 * *May, 2024.* [Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!

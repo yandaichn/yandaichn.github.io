@@ -31,7 +31,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   **\[COLT 2024\] [Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  
     **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du.  
     <!-- Extended Abstract accepted to *the 37th Annual Conference on Learning Theory* (COLT), 2024.   -->
-    ([slides](/files/slides_COLT2024_Linear_Markov_Games.pdf))
+    ([extended abstract](https://proceedings.mlr.press/v247/dai24a/dai24a.pdf), [slides](/files/slides_COLT2024_Linear_Markov_Games.pdf))
 *   **\[ICML 2024\] [Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567)**  
     Kwangjun Ahn, Zhiyu Zhang, Yunbum Kook, and **<font color="blue">Yan Dai</font>**.  
     <!-- Accepted to *the 41st International Conference on Machine Learning* (ICML), 2024. -->
