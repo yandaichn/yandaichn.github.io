@@ -11,10 +11,12 @@ Hi! I am a first-year PhD student at [**Operations Research Center (ORC), MIT**]
 
 Prior to MIT, I earned my Bachelor's degree from [**Yao Class, Tsinghua**](https://iiis.tsinghua.edu.cn/en/) in June 2024. I am extremely grateful to [**Prof. Longbo Huang**](https://people.iiis.tsinghua.edu.cn/~huang/), [**Prof. Haipeng Luo**](https://haipeng-luo.net/), [**Prof. Simon S. Du**](https://simonshaoleidu.com/), and [**Prof. Suvrit Sra**](https://optml.mit.edu/) who introduced me to the world of learning theory!
 
-My research interests lie broadly in **learning theory** -- check my [**publications**](publications) or [**CV (PDF)**](CV_Yan.pdf) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat!
+My research interests lie broadly in **EconCS** and **learning theory** -- check my [**publications**](publications) or [**CV (PDF)**](CV_Yan.pdf) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat!
 
 ## Recent News
-* *Jan, 2025.* [**Refined Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025**!
+* *May, 2025.* [**Adversarial Network Optimization under Bandit Feedback**](https://arxiv.org/abs/2408.16215) selected as **Best Paper Finalist (5 in total)** at ACM SIGMETRICS 2025!
+* *May, 2025.* [**Non-Monetary Mechanism Design without Distributions**](https://arxiv.org/abs/2502.08412) accepted to **COLT 2025**!
+* *Jan, 2025.* [**Refined Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025** as a Spotlight!
 * *Sep, 2024.* [**Adversarial Network Optimization under Bandit Feedback**](https://arxiv.org/abs/2408.16215) accepted to **ACM SIGMETRICS 2025**!
 * *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **Outstanding Graduate** by Beijing, by Tsinghua, and by Yao Class!
 * *May, 2024.* [**Refined Linear Markov Games**](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
@@ -29,4 +31,4 @@ My research interests lie broadly in **learning theory** -- check my [**publicat
 
 ## Professional Services
 * **Journal Reviewing**: Journal of Machine Learning (JMLR) 2024, Performance Evaluation 2024.
-* **Conference Reviewing**: COLT 2025, ICML 2025 / 2023, NeurIPS 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2025 / 2023 / 2022, ALT 2023.
+* **Conference Reviewing**: COLT 2025, ICML 2025 / 2023, NeurIPS 2025 / 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2025 / 2023 / 2022, ALT 2023.
