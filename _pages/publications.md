@@ -21,7 +21,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     **<font color="blue">Yan Dai</font>** and Longbo Huang.  
     In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (POMACS), 8(3):31, 2024.  
     <!-- Extended abstract accepted to *the Annual Conference of the ACM Special Interest Group on Performance Evaluation* (ACM SIGMETRICS), 2025.  -->
-    Named as a *<font color="red">Best Paper Finalist (5 in total)</font>* at ACM SIGMETRICS 2025.
+    Won *<font color="red">Best Paper Award</font>* at ACM SIGMETRICS 2025.
 
 ## Conference Publications
 *   **\[ICLR 2025\] [uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
