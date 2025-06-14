@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Awards
 * ***<font color="red">Best Paper Award</font>*** at ACM SIGMETRICS, 2025.
-* *<font color="red">1st Place</font>* in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
+* **1st Place** in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
 
 ## Fellowship and Scholarship
 * **Outstanding Graduate** named by Beijing (*5%*), by Tsinghua (*2%*), and by Yao Class (*10%*), 2024.
