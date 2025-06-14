@@ -13,7 +13,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 *   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](/publications/)** (draft available upon request)  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
     An early version won *<font color="red">1st place</font>* in ACM Student Research Competition (SRC), SIGMETRICS 2025 Graduate Division.  
-    <font color="gray">([slides](/files/slides_SRC_2025_Constr_Alloc_Strategic_Agents.pdf))</font>
+    <font color="gray">(<a href="/files/slides_SRC_2025_Constr_Alloc_Strategic_Agents.pdf">slides</a>)</font>
 *   **[Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
     **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
     An early version accepted to conference **COLT 2025**.
@@ -22,7 +22,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (**POMACS**), 8(3):31, 2024.  
     An early version accepted to conference **ACM SIGMETRICS 2025**.  
     Won ***<font color="red">Best Paper Award</font>*** at conference ACM SIGMETRICS 2025.  
-    <font color="gray">([extended abstract](https://dl.acm.org/doi/10.1145/3726854.3727270), [slides (20min)](/files/slides_SIGMETRICS_2025_ANO_Bandit_Feedback.pdf), [video (5min)](https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4))</font>
+    <font color="gray">(<a href="https://dl.acm.org/doi/10.1145/3726854.3727270">extended abstract</a>, [slides (20min)](/files/slides_SIGMETRICS_2025_ANO_Bandit_Feedback.pdf), [video (5min)](https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4))</font>
 
 ## Conference Publications
 *   **[uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
