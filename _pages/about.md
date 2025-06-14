@@ -15,6 +15,7 @@ My research interests lie broadly in **EconCS** and **learning theory** -- check
 
 ## Recent News
 * *Jun, 2025.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) won **<font color="blue">Best Paper Award</font>** at ACM SIGMETRICS 2025!
+* *Jun, 2025.* [Dynamic Resource Allocation](/publications/) won **<font color="blue">1st Place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025 Graduate Division!
 * *May, 2025.* [Non-Monetary Mechanism Design without Distributions](https://arxiv.org/abs/2502.08412) accepted to **COLT 2025**!
 * *Jan, 2025.* [Refined Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025** as a Spotlight Paper (5.1%)!
 * *Dec, 2024.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) published in the ACM journal **POMACS**!

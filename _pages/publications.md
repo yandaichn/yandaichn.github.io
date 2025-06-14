@@ -12,7 +12,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 ## Journal Publications and Working Papers
 *   **Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints** (draft available on request)  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
-    An early version won *<font color="red">1st place</font>* in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division.  
+    An early version won *<font color="red">1st place</font>* in ACM Student Research Competition (SRC), SIGMETRICS 2025 Graduate Division.  
     ([slides](/files/slides_SRC_2025_Constr_Alloc_Strategic_Agents.pdf))
 *   **\[COLT 2025\] [Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
     **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
