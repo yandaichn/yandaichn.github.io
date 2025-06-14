@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## Research Awards
-* ***<font color="red">Best Paper Award*** at ACM SIGMETRICS, 2025.
-* ***<font color="red">1st Place*** in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
+* ***<font color="red">Best Paper Award</font>*** at ACM SIGMETRICS, 2025.
+* ***<font color="red">1st Place</font>*** in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
 
 ## Fellowship and Scholarship
-* ***<font color="red">Outstanding Graduate*** named by Beijing (*5%*), by Tsinghua (*2%*), and by Yao Class (*10%*), 2024.
-* ***<font color="red">Presidential Schorlarship*** (特等奖学金), Tsinghua University, 2023.  
+* ***<font color="red">Outstanding Graduate</font>*** named by Beijing (*5%*), by Tsinghua (*2%*), and by Yao Class (*10%*), 2024.
+* ***<font color="red">Presidential Schorlarship</font>*** (特等奖学金), Tsinghua University, 2023.  
   *Top scholarship for Tsinghua undergrads. 10/16,000+ university-wide.*
-* ***<font color="red">"Andrew C. Yao Award" Gold Medal***, IIIS, Tsinghua University, 2023.  
+* ***<font color="red">"Andrew C. Yao Award" Gold Medal</font>***, IIIS, Tsinghua University, 2023.  
   *Top scholarship in Yao Class. 1 student institute-wide.*
 
 ## Competitive Programming (Selected)
