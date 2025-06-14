@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **[The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
+<!-- * **[The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
   **Yan Dai\***, Kwangjun Ahn\*, and Suvrit Sra.  
   *@ Conference on Neural Information Processing Systems (NeurIPS)*, Online, Dec 2023.  
   [\[slides\]](/files/slides_NeurIPS2023_Normalization_in_SAM.pdf)
@@ -31,4 +31,4 @@ author_profile: true
 * **[Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)**  
   Jiatai Huang\*, **Yan Dai\***, and Longbo Huang.  
   *@ SparkDay (in Chinese)*, Tsinghua University, May 2022.  
-  [\[slides (in Chinese)\]](/files/slides_ICML2022_BoBW_Heavy_Tail_MAB.pdf)
+  [\[slides (in Chinese)\]](/files/slides_ICML2022_BoBW_Heavy_Tail_MAB.pdf) -->
