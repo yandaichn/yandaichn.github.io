@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Research Awards
-* **Best Paper Award** (only 1) at ACM SIGMETRICS, 2025.
+* **Best Paper Award** at ACM SIGMETRICS, 2025.
+* **1st Place** in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
 
 ## Fellowship and Scholarship
 * **Presidential Schorlarship** (特等奖学金), Tsinghua University, 2023.  
