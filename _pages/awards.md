@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 ## Research Awards
-* **Best Paper Award** at ACM SIGMETRICS, 2025.
-* **1st Place** in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
+* ***<font color="red">Best Paper Award*** at ACM SIGMETRICS, 2025.
+* ***<font color="red">1st Place*** in ACM Student Research Competition (SRC), SIGMETRICS Graduate Division, 2025.
 
 ## Fellowship and Scholarship
-* **Presidential Schorlarship** (特等奖学金), Tsinghua University, 2023.  
+* ***<font color="red">Outstanding Graduate*** named by Beijing (*5%*), by Tsinghua (*2%*), and by Yao Class (*10%*), 2024.
+* ***<font color="red">Presidential Schorlarship*** (特等奖学金), Tsinghua University, 2023.  
   *Top scholarship for Tsinghua undergrads. 10/16,000+ university-wide.*
-* **"Andrew C. Yao Award" Gold Medal**, IIIS, Tsinghua University, 2023.  
+* ***<font color="red">"Andrew C. Yao Award" Gold Medal***, IIIS, Tsinghua University, 2023.  
   *Top scholarship in Yao Class. 1 student institute-wide.*
-* **"12·9" Scholarship** (一二·九奖学金), Tsinghua University, 2021.  
-  *Top scholarship for Tsinghua sophomores. 1 student per major.*
 
 ## Competitive Programming (Selected)
 Before entering Tsinghua, I competed in the olympiad of informatics (OI; a.k.a., competitive programming). Here lists part of my awards in OI.

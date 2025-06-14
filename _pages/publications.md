@@ -10,61 +10,61 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 (* stands for equal contribution. Listed reverse chronologically.)
 
 ## Journal Publications and Working Papers
-*   **Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints** (draft available on request)  
+*   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](/publications/)** (draft available upon request)  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
     An early version won *<font color="red">1st place</font>* in ACM Student Research Competition (SRC), SIGMETRICS 2025 Graduate Division.  
     ([slides](/files/slides_SRC_2025_Constr_Alloc_Strategic_Agents.pdf))
-*   **\[COLT 2025\] [Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
+*   **[Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
     **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
-    An early version accepted to COLT 2025.
-*   **\[POMACS & ACM SIGMETRICS 2025\] [Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://dl.acm.org/doi/10.1145/3700413)**  
+    An early version accepted to conference **COLT 2025**.
+*   **[Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://dl.acm.org/doi/10.1145/3700413)**  
     **<font color="blue">Yan Dai</font>** and Longbo Huang.  
-    In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (POMACS), 8(3):31, 2024.  
-    A short version accepted to ACM SIGMETRICS 2025.  
-    Won *<font color="red">Best Paper Award</font>* at SIGMETRICS 2025.  
+    In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (**POMACS**), 8(3):31, 2024.  
+    An early version accepted to conference **ACM SIGMETRICS 2025**.  
+    Won ***<font color="red">Best Paper Award</font>*** at ACM SIGMETRICS 2025.  
     ([extended abstract](https://dl.acm.org/doi/10.1145/3726854.3727270), [slides (20min)](/files/slides_SIGMETRICS_2025_ANO_Bandit_Feedback.pdf), [video (5min)](https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4))
 
 ## Conference Publications
-*   **\[ICLR 2025\] [uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
+*   **[uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284)**  
     Yu Chen\*, Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
-    Accepted to ICLR 2025 (*<font color="red">Spotlight (5.1\%)</font>*).
+    Accepted to conference **ICLR 2025** (*<font color="red">Spotlight (5.1\%)</font>*).
     <!-- Accepted to *the 13th International Conference on Learning Representations* (ICLR), 2025.   -->
-*   **\[COLT 2024\] [Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  
+*   **[Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  
     **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du.  
-    Accepted to COLT 2024.
+    Accepted to conference **COLT 2024**.
     <!-- Extended Abstract accepted to *the 37th Annual Conference on Learning Theory* (COLT), 2024.   -->
     ([extended abstract](https://proceedings.mlr.press/v247/dai24a/dai24a.pdf), [slides](/files/slides_COLT2024_Linear_Markov_Games.pdf))
-*   **\[ICML 2024\] [Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567)**  
+*   **[Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567)**  
     Kwangjun Ahn, Zhiyu Zhang, Yunbum Kook, and **<font color="blue">Yan Dai</font>**.  
-    Accepted to ICML 2024.
+    Accepted to conference **ICML 2024**.
     <!-- Accepted to *the 41st International Conference on Machine Learning* (ICML), 2024. -->
-*   **\[NeurIPS 2023\] [The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
+*   **[The Crucial Role of Normalization in Sharpness-Aware Minimization](https://arxiv.org/abs/2305.15287)**  
     **<font color="blue">Yan Dai*</font>**, Kwangjun Ahn\*, and Suvrit Sra.  
-    Accepted to NeurIPS 2023.
+    Accepted to conference **NeurIPS 2023**.
     <!-- Accepted to *the 37th Annual Conference on Neural Information Processing Systems*, 2023.   -->
     ([slides](/files/slides_NeurIPS2023_Normalization_in_SAM.pdf), [video](https://neurips.cc/virtual/2023/poster/69875))
-*   **\[ICML 2023\] [Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
+*   **[Refined Regret for Adversarial MDPs with Linear Function Approximation](https://arxiv.org/abs/2301.12942)**  
     **<font color="blue">Yan Dai</font>**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
-    Accepted to ICML 2023.
+    Accepted to conference **ICML 2023**.
     <!-- Accepted to *the 40th International Conference on Machine Learning* (ICML), 2023.   -->
     ([slides (60min)](/files/slides_ICML2023_Linear_AMDP.pdf), [slides (5min)](/files/slides_ICML2023_Linear_AMDP_Short.pdf), [video](https://icml.cc/virtual/2023/poster/24760))
-*   **\[ICML 2023\] [Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
+*   **[Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning](https://arxiv.org/abs/2301.10500)**  
     Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
-    Accepted to ICML 2023.
+    Accepted to conference **ICML 2023**.
     <!-- Accepted to *the 40th International Conference on Machine Learning* (ICML), 2023.   -->
     ([slides](/files/slides_ICML2023_Banker_OMD.pdf), [video](https://icml.cc/virtual/2023/poster/24900))
-*   **\[ICLR 2023\] [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)**  
+*   **[Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450)**  
     **<font color="blue">Yan Dai</font>**, Ruosong Wang, and Simon S. Du.  
-    Accepted to ICLR 2023.
+    Accepted to conference **ICLR 2023**.
     <!-- Accepted to *the 11th International Conference on Learning Representations* (ICLR), 2023.   -->
     ([slides (60min)](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandits.pdf), [slides (5min)](/files/slides_ICLR2023_Variance_Aware_Sparse_LinBandits_Short.pdf), [video](https://iclr.cc/virtual/2023/poster/11675))
-*   **\[NeurIPS 2022\] [Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)**   
+*   **[Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback](https://arxiv.org/abs/2205.13451)**   
     **<font color="blue">Yan Dai</font>**, Haipeng Luo, and Liyu Chen.  
-    Accepted to NeurIPS 2022.
+    Accepted to conference **NeurIPS 2022**.
     <!-- Accepted to *the 36th Annual Conference on Neural Information Processing Systems*, 2022.   -->
     ([slides](/files/slides_NeurIPS2022_FTPL_for_AMDP.pdf), [video](https://neurips.cc/virtual/2022/poster/54395))
-*   **\[ICML 2022\] [Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)**  
+*   **[Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits](https://arxiv.org/abs/2201.11921)**  
     Jiatai Huang\*, **<font color="blue">Yan Dai*</font>**, and Longbo Huang.  
-    Accepted to ICML 2022.
+    Accepted to conference **ICML 2022**.
     <!-- Accepted to *the 39th International Conference on Machine Learning* (ICML), 2022.   -->
     ([video](https://icml.cc/virtual/2022/spotlight/16610))
