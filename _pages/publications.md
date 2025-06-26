@@ -12,15 +12,15 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 ## Journal Publications and Working Papers
 *   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](/publications/)** (draft available upon request)  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
-    An early version won *<font color="red">1st place</font>* in ACM Student Research Competition (SRC), SIGMETRICS 2025 Graduate Division.  
+    Extended abstract competed in ACM Student Research Competition (SRC), SIGMETRICS 2025, and won the ***<font color="red">1st place</font>***.  
     ([slides](/files/slides_SRC_2025_Constr_Alloc_Strategic_Agents.pdf), [award link](https://www.sigmetrics.org/sigmetrics2025/student_activities.html))
 *   **[Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
     **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
-    An early version accepted to conference **COLT 2025**.
+    Early version accepted to conference **COLT 2025**.
 *   **[Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://dl.acm.org/doi/10.1145/3700413)**  
     **<font color="blue">Yan Dai</font>** and Longbo Huang.  
     In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (**POMACS**), 8(3):31, 2024.  
-    An early version accepted to conference **ACM SIGMETRICS 2025**, and won the ***<font color="red">Best Paper Award</font>***.  
+    Early version accepted to conference **ACM SIGMETRICS 2025**, and won the ***<font color="red">Best Paper Award</font>***.  
     ([extended abstract](https://dl.acm.org/doi/10.1145/3726854.3727270), [slides (20min)](/files/slides_SIGMETRICS_2025_ANO_Bandit_Feedback.pdf), [video (5min)](https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4), [award link](https://sigmetrics.org/awards.shtml#paperawards))
 
 ## Conference Publications
