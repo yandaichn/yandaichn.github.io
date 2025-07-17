@@ -10,7 +10,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 (* stands for equal contribution. Listed reverse chronologically.)
 
 ## Journal Publications and Working Papers
-*   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](/publications/)** (draft available upon request)  
+*   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](https://arxiv.org/abs/2507.09473)**  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
     **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
     ([slides](/files/slides_SRC25_Constr_Alloc_Strategic_Agents.pdf))
