@@ -17,4 +17,4 @@ As a key ingredient in water polo, I enjoy swimming as well. In Tsinghua Swimmin
 
 ![Swimming Competition of Tsinghua, 2022](../images/butterfly.jpg)
 
-Besides aquatics, I also recently developed interests in Figure Skating, Ice Hockey, Sailing, and Bouldering (list keep growing!)
+Besides aquatics, I also recently developed interests in Figure Skating, Ice Hockey, Sailing, and Bouldering (a rapidly growing list!)
