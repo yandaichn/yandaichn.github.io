@@ -12,6 +12,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 ## Journal Publications and Working Papers
 *   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](https://arxiv.org/abs/2507.09473)**  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
+    Early version accepted to conference **NeurIPS 2025**.  
     **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
     ([slides](/files/slides_SRC25_Constr_Alloc_Strategic_Agents.pdf))
 *   **[Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
