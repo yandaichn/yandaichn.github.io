@@ -1,39 +1,47 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: First-year PhD student @ ORC, MIT
+title: About Me
+nav: false
 
 profile:
   align: right
-  image: avatar_graduation.jpg
-  image_circular: true # crops the image to make it circular
+  image: avatar5_2507.jpg
+  image_circular: true
 
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+news: false
+selected_papers: false
+social: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-Hi! I am a first-year PhD student at [**Operations Research Center (ORC), MIT**](https://orc.mit.edu/) where I am fortunate to be co-advised by [**Prof. Patrick Jaillet**](https://web.mit.edu/jaillet/www/) and [**Prof. Negin Golrezaei**](https://www.mit.edu/~golrezae/). I am also affiliated with [**Laboratory for Information and Decision Systems (LIDS), MIT**](https://lids.mit.edu/).
+Hi! I am a second-year PhD student at [**Operations Research Center (ORC), MIT**](https://orc.mit.edu/) where I am fortunate to be co-advised by [Patrick Jaillet](https://web.mit.edu/jaillet/www/) and [Negin Golrezaei](https://www.mit.edu/~golrezae/). In Summer 2026, I am a research intern at [**Microsoft Research EconCS**](https://www.microsoft.com/en-us/research/theme/economics-and-computation/), mentored by [Alex Silvkins](https://www.microsoft.com/en-us/research/people/slivkins/) and [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/); I also work closely with [Nicole Immorlica](https://www.microsoft.com/en-us/research/people/nicimm/).
 
-Prior to MIT, I earned my Bachelor's degree from [**Yao Class, Tsinghua**](https://iiis.tsinghua.edu.cn/en/) in June 2024. I am extremely grateful to [**Prof. Longbo Huang**](https://people.iiis.tsinghua.edu.cn/~huang/), [**Prof. Haipeng Luo**](https://haipeng-luo.net/), [**Prof. Simon S. Du**](https://simonshaoleidu.com/), and [**Prof. Suvrit Sra**](https://optml.mit.edu/) who introduced me to the world of learning theory!
+Prior to MIT, I earned my Bachelor's degree from [**Yao Class, Tsinghua**](https://iiis.tsinghua.edu.cn/en/) in 2024. I am extremely grateful to [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/), [Haipeng Luo](https://haipeng-luo.net/), [Simon S. Du](https://simonshaoleidu.com/), and [Suvrit Sra](https://optml.mit.edu/) who introduced me to the world of learning theory.
 
-My research interests lie broadly in **learning theory** -- check my [**publications**](publications) or [**CV (PDF)**](CV_Yan.pdf) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat!
+My research focuses on the intersection of **Economics and Computer Science (EconCS)**, specifically tackling strategic behaviors in economic systems via online learning tools. I'm also broadly interested in **learning theory**: bandits, online learning, reinforcement learning theory, and deep learning theory.
 
 ## Recent News
-* *Jan, 2025.* [**Refined Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025**!
-* *Sep, 2024.* [**Adversarial Network Optimization under Bandit Feedback**](https://arxiv.org/abs/2408.16215) accepted to **ACM SIGMETRICS 2025**!
-* *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **Outstanding Graduate** by Beijing, by Tsinghua, and by Yao Class!
-* *May, 2024.* [**Refined Linear Markov Games**](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
-* *May, 2024.* [**Adam is FTRL in Disguise**](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
-* *Nov, 2023.* Awarded **Presidential Scholarship** by Tsinghua -- 10 undergrads per year!
-* *Sep, 2023.* [**Role of Normalization in SAM**](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
-* *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal** by Yao Class -- 1 student per year!
-* *Apr, 2023.* [**Refined Adversarial Linear(-Q) MDPs**](https://arxiv.org/abs/2301.12942) and [**Banker-OMD Framework for Delayed Bandits**](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**!
-* *Jan, 2023.* [**Variance-Aware Sparse Linear Bandits**](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**!
-* *Sep, 2022.* [**FTPL in Adversarial MDPs**](https://arxiv.org/abs/2205.13451) accepted to **NeurIPS 2022**!
-* *May, 2022.* [**Best-of-Both-Worlds Heavy-Tailed MABs**](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
+* *Feb, 2026.* Named as a **Runner-Up of Two Sigma PhD Fellowship** (2 winners and 2 runners-up in 2026).
+* *Sep, 2025.* [Incentive-Aware Dynamic Resource Allocation under Constraints](https://arxiv.org/abs/2507.09473) accepted to **NeurIPS 2025**.
+* *Jun, 2025.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) won [**<font color="red">Best Paper Award</font>**](https://sigmetrics.org/awards.shtml#paperawards) at ACM SIGMETRICS 2025!
+* *Jun, 2025.* [Incentive-Aware Dynamic Resource Allocation under Constraints](https://arxiv.org/abs/2507.09473) won [**<font color="red">1st Place</font>**](https://www.sigmetrics.org/sigmetrics2025/student_activities.html) in ACM Student Research Competition (SRC) held at SIGMETRICS 2025!
+* *May, 2025.* [Non-Monetary Mechanism Design without Distributions](https://arxiv.org/abs/2502.08412) accepted to **COLT 2025**.
+* *Jan, 2025.* [Refined Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025** as Spotlight (5.1%).
+* *Dec, 2024.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) published in **POMACS** journal.
+* *Jun, 2024.* Awarded **Outstanding Graduate** by Beijing, by Tsinghua, and by Yao Class.
+* *May, 2024.* [Refined Linear Markov Games](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**.
+* *May, 2024.* [Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**.
+* *Nov, 2023.* Awarded **<font color="red">Presidential Scholarship (10 undergrads per year)</font>** by Tsinghua!
+* *Sep, 2023.* [Role of Normalization in SAM](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**.
+* *Sep, 2023.* Awarded **"Andrew C. Yao Award" Gold Medal (1 per year)** by Yao Class!
+* *Apr, 2023.* [Refined Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Bandits](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**.
+* *Jan, 2023.* [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**.
+* *Sep, 2022.* [FTPL in Adversarial MDPs](https://arxiv.org/abs/2205.13451) accepted to **NeurIPS 2022**.
+* *May, 2022.* [Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**.
 
 ## Professional Services
-* **Journal Reviewing**: Journal of Machine Learning (JMLR) 2024, Performance Evaluation 2024.
-* **Conference Reviewing**: COLT 2025, ICML 2025 / 2023, NeurIPS 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2025 / 2023 / 2022, ALT 2023.
+* **Journal Reviewing**: Journal of Machine Learning Research (JMLR), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Learning; IEEE/ACM Transactions on Networking (TON), Performance Evaluation (PEVA), IEEE Internet of Things Journal (IoT-J).
+* **Conference Reviewing**: COLT 2025, ICML 2026 (Gold reviewer) / 2025 / 2023, NeurIPS 2026 / 2025 / 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2026 / 2025 / 2023 / 2022, AAAI 2026, ALT 2023.

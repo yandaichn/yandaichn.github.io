@@ -67,6 +67,9 @@
             {%- if site.dblp_url -%}
             <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
             {% endif %}
+            {%- if site.openreview_url -%}
+            <a href="{{ site.openreview_url }}" title="OpenReview"><i class="fas fa-pen-square"></i></a>
+            {% endif %}
             {%- if site.stackoverflow_id -%}
             <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>
             {% endif %}
