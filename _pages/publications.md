@@ -10,7 +10,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 (* stands for equal contribution. Publications organized by topics.)
 
 # Economics and Computer Science (EconCS)
-*   **Market Design for AI: Beyond the Copyright Binary**  
+*   **<font color="#52adc8">Market Design for AI: Beyond the Copyright Binary</font>**  
     **<font color="blue">Yan Dai</font>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.
 *   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](https://arxiv.org/abs/2507.09473)**  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
@@ -24,7 +24,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     ([extended abstract](https://proceedings.mlr.press/v291/dai25a/dai25a.pdf), [slides](/files/slides_COLT25_Mech_Design_via_Audits.pdf))
 
 # Bandits and Online Learning
-*   **Policy Regret for Embedding Model Routing: Contextual Bandits with Low-Rank Experts**  
+*   **<font color="#52adc8">Policy Regret for Embedding Model Routing: Contextual Bandits with Low-Rank Experts</font>**  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.
 *   **[Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks](https://dl.acm.org/doi/10.1145/3700413)**  
     **<font color="blue">Yan Dai</font>** and Longbo Huang.  
@@ -51,7 +51,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
     ([video](https://icml.cc/virtual/2022/spotlight/16610))
 
 # Reinforcement Learning Theory
-*   **<font color="gray">Learning Adversarial Continuous MDPs with Bandit Feedback and Unknown Transitions</font>**  
+*   **<font color="#52adc8">Learning Adversarial Continuous MDPs with Bandit Feedback and Unknown Transitions</font>**  
     Aarush Kulkarni, Khang Nguyen, Ricardo Parada, Kenny Guo, William Chang, and **<font color="blue">Yan Dai</font>**.
 *   **[Refined Sample Complexity for Markov Games with Independent Linear Function Approximation](https://arxiv.org/abs/2402.07082)**  
     **<font color="blue">Yan Dai</font>**, Qiwen Cui, and Simon S. Du.  
