@@ -192,11 +192,101 @@ kramdown:
 # Includes & excludes
 include: ['_pages']
 exclude:
+  - .agents
+  - .claude
+  - .codex
+  - .devcontainer
+  - .dockerignore
+  - .gemini
+  - .github/agents
+  - .github/ISSUE_TEMPLATE
+  - .github/instructions
+  - .github/release.yml
+  - .github/stale.yml
+  - .github/workflows/axe.yml
+  - .github/workflows/broken-links-site.yml
+  - .github/workflows/broken-links.yml
+  - .github/workflows/codeql.yml
+  - .github/workflows/copilot-setup-steps.yml
+  - .github/workflows/deploy-docker-tag.yml
+  - .github/workflows/deploy-image.yml
+  - .github/workflows/deploy.yml
+  - .github/workflows/docker-slim.yml
+  - .github/workflows/lighthouse-badger.yml
+  - .github/workflows/prettier-comment-on-pr.yml
+  - .github/workflows/prettier-html.yml
+  - .github/workflows/prettier.yml
+  - .github/workflows/render-cv.yml
+  - .github/workflows/schedule-posts.txt
+  - .github/workflows/unit-tests.yml
+  - .github/workflows/update-citations.yml
+  - .github/workflows/update-tocs.yml
+  - .github/workflows/upgrade-check.yml
+  - .github/workflows/visual-regression.yml
+  - .github/GIT_WORKFLOW.md
+  - .github/pull_request_template.md
+  - AGENTS.md
+  - CLAUDE.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - README.md
   - bin
+  - docs
+  - lighthouse_results
+  - readme_preview
+  - test
   - Gemfile
   - Gemfile.lock
+  - Dockerfile
+  - docker-compose.yml
+  - docker-compose-slim.yml
+  - docker-local.yml
+  - package.json
+  - package-lock.json
+  - purgecss.config.js
+  - requirements.txt
+  - _books
+  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/cv.md
+  - _pages/news.md
+  - _pages/plugins.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _posts
+  - _projects
+  - _teachings
+  - assets/audio
+  - assets/html
+  - assets/img/1.jpg
+  - assets/img/2.jpg
+  - assets/img/3.jpg
+  - assets/img/4.jpg
+  - assets/img/5.jpg
+  - assets/img/6.jpg
+  - assets/img/7.jpg
+  - assets/img/8.jpg
+  - assets/img/9.jpg
+  - assets/img/10.jpg
+  - assets/img/11.jpg
+  - assets/img/12.jpg
+  - assets/img/book_covers
+  - assets/img/prof_pic.jpg
+  - assets/img/prof_pic_color.png
+  - assets/img/publication_preview
+  - assets/img/rhino.png
+  - assets/img/template_error.png
+  - assets/json
+  - assets/jupyter
   - assets/js/distillpub
+  - assets/pdf/example_pdf.pdf
   - assets/plotly
+  - assets/rendercv
+  - assets/video
   - vendor
 keep_files:
   - CNAME
