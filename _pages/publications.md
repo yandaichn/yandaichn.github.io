@@ -12,7 +12,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 # Economics and Computer Science (EconCS)
 *   **<font color="#52adc8">Market Design for AI: Beyond the Copyright Binary</font>**   
     **<font color="blue">Yan Dai</font>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
-    <details markdown="1">
+    <details>
         <summary>Early versions accepted to...</summary>
 
         [Wharton Accountable AI Research Conference](https://ai-analytics.wharton.upenn.edu/wharton-accountable-ai-lab/accountable-ai-research-conference/) (Feb, 2026),  
@@ -21,13 +21,13 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
         [Conference of Institutional \& Organizational Economics](https://www.sioe.org/conference/2026) (Jul, 2026),  
         [NBER Summer Institute Law and Economics Workshop](https://www.nber.org/conferences/si-2026-law-and-economics) (Jul, 2026), and  
         [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Nov, 2026).
-
     </details>
 *   **[Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints](https://arxiv.org/abs/2507.09473)**  
     **<font color="blue">Yan Dai</font>**, Negin Golrezaei, and Patrick Jaillet.  
     Early version accepted to **NeurIPS 2025**.  
     **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
-    <details markdown="1">
+    ([slides (60min)](/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents.pdf), [slides (15min)](/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents_Short.pdf))  
+    <details>
         <summary>Presentations at...</summary>
 
         [UMass Amherst Theory Seminar](https://theory.cs.umass.edu/seminar\#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints) (Oct, 2025),  
@@ -35,9 +35,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
         [International Seminar on Foundational AI](https://www.fai-seminar.ac.cn/) (Nov, 2025),  
         [TwoSigma PhD Fellowship Reception](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN) (Feb, 2026), and  
         [Citadel Securities PhD Summit](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) (Apr, 2026).
-        
     </details>
-    ([slides (60min)](/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents.pdf), [slides (15min)](/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents_Short.pdf))
 *   **[Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely](https://arxiv.org/abs/2502.08412)**  
     **<font color="blue">Yan Dai</font>**, Moise Blanchard, and Patrick Jaillet.  
     Under review at *Operations Research*.  
