@@ -195,6 +195,8 @@ exclude:
   - bin
   - Gemfile
   - Gemfile.lock
+  - assets/js/distillpub
+  - assets/plotly
   - vendor
 keep_files:
   - CNAME
