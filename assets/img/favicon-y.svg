@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Yan Dai favicon</title>
+  <path d="M17 12 L32 31 L47 12" fill="none" stroke="#b509ac" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 31 L32 53" fill="none" stroke="#1f5fbf" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="17" cy="12" r="3.8" fill="#b509ac"/>
+  <circle cx="47" cy="12" r="3.8" fill="#b509ac"/>
+  <circle cx="32" cy="31" r="4.2" fill="#ffffff" stroke="#b509ac" stroke-width="3"/>
+  <circle cx="32" cy="53" r="3.8" fill="#1f5fbf"/>
+</svg>

@@ -6,10 +6,32 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: Georgia, "Times New Roman", "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", SimSun, serif;
+  font-weight: 400;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
+    font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+    font-weight: 500;
+    line-height: 1.22;
   }
+}
+
+.navbar,
+.post-header,
+.social,
+.pub-link {
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+}
+
+.font-weight-light,
+.font-weight-lighter {
+  font-weight: 400 !important;
+}
+
+b,
+strong {
+  font-weight: 550;
 }
 
 body.fixed-top-nav {
@@ -20,6 +42,12 @@ body.fixed-top-nav {
 body.sticky-bottom-footer {
   // Remove padding below footer.
   padding-bottom: 0;
+}
+
+.footer-inner {
+  text-align: center;
+  font-size: 0.78rem;
+  line-height: 1.35;
 }
 
 .container {
@@ -36,11 +64,13 @@ body.sticky-bottom-footer {
 .post article {
   h1 {
     font-size: 1.45rem;
+    font-weight: 500;
     margin-top: 1.75rem;
   }
 
   h2 {
     font-size: 1.2rem;
+    font-weight: 500;
     margin-top: 1.35rem;
   }
 
@@ -53,10 +83,74 @@ body.sticky-bottom-footer {
   }
 }
 
+.post-header .post-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.6rem;
+}
+
+.title-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.38rem;
+  font-size: 0.86rem;
+  line-height: 1;
+
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+
+  i {
+    vertical-align: baseline;
+  }
+}
+
 .about-intro > p {
   font-size: 1.02rem;
   line-height: 1.65;
   color: var(--global-text-color);
+}
+
+.news-list-lite {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.55rem 0 1.2rem;
+
+  li {
+    display: grid;
+    grid-template-columns: 5.1rem minmax(0, 1fr);
+    column-gap: 0.7rem;
+    margin-bottom: 0.2rem;
+    line-height: 1.42;
+  }
+
+  .news-date {
+    color: var(--global-text-color-light);
+    font-size: 0.86rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.42;
+    text-align: right;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .news-list-lite li {
+    grid-template-columns: 1fr;
+    row-gap: 0.02rem;
+  }
+
+  .news-list-lite .news-date {
+    text-align: left;
+  }
 }
 
 .author-highlight {

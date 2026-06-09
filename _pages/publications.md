@@ -6,9 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4z3IAAAAJ) for more information!
-
-(* stands for equal contribution. Publications organized by topics.)
+Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4z3IAAAAJ) for more information! (* stands for equal contribution.)
 
 # Economics and Computer Science
 <ul class="pub-list">
