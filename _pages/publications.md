@@ -74,7 +74,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% capture pub %}
 <span class="pub-title">Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks</span>  
 **<span class="author-highlight">Yan Dai</span>** and Longbo Huang.  
-In *Proceedings of the ACM on Measurement and Analysis of Computing Systems* (**POMACS**), 8(3):31, 2024.  
+In *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, 8(3):31, 2024.  
 **<font color="red">Best Paper Award</font>** of **ACM SIGMETRICS 2025**.  
 
 {% include pub-links.html links="
