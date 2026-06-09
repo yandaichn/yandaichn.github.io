@@ -13,6 +13,7 @@ author_profile: true
   *Advancing to the ACM SRC Grand Finals (to take place in March 2026).*
 
 ## Fellowship and Scholarship
+* **Runner-Up** of Two Sigma PhD Fellowship (2 per year), 2026.
 * **Outstanding Graduate** named by Beijing (*5%*), by Tsinghua (*2%*), and by Yao Class (*10%*), 2024.
 * **Presidential Schorlarship (特等奖学金)**, Tsinghua University, 2023.  
   *Top scholarship for Tsinghua undergrads. 10/16,000+ university-wide.*
