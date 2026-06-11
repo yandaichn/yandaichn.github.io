@@ -16,14 +16,19 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 <details markdown="block">
 <summary>Early versions accepted to...</summary>
 
-[Wharton Accountable AI Research Conference](https://ai-analytics.wharton.upenn.edu/wharton-accountable-ai-lab/accountable-ai-research-conference/) (Feb, 2026),  
-[the 11th Marketplace Innovation Workshop](https://marketplaceinnovation.net/) (May, 2026),  
-[Informs M&SOM Conference Service Management SIG](https://www.hbs.edu/about/research/msom-conference-2026/program) (Jul, 2026),  
-[Conference of Institutional & Organizational Economics](https://www.sioe.org/conference/2026) (Jul, 2026),  
-[NBER Summer Institute Law and Economics Workshop](https://www.nber.org/conferences/si-2026-law-and-economics) (Jul, 2026),  
-[Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Nov, 2026).
+* [Wharton Accountable AI Research Conference](https://ai-analytics.wharton.upenn.edu/wharton-accountable-ai-lab/accountable-ai-research-conference/) (Feb, 2026)
+* [Stanford Market Design in the Age of AI Conference](https://datascience.stanford.edu/news/market-design-age-ai-key-insights-conference) (Feb, 2026)
+* [The 11th Marketplace Innovation Workshop](https://marketplaceinnovation.net/) (May, 2026)
+* [Informs M&SOM Conference Service Management SIG](https://www.hbs.edu/about/research/msom-conference-2026/program) (Jul, 2026)
+* [Conference of Institutional & Organizational Economics](https://www.sioe.org/conference/2026) (Jul, 2026)
+* [NBER Summer Institute Law and Economics Workshop](https://www.nber.org/conferences/si-2026-law-and-economics) (Jul, 2026)
+* [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Nov, 2026)
 </details>
 {% endcapture %}
+{% include pub-links.html links="
+Preprint|https://arxiv.org/abs/2606.12260|paper
+Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_market-design-in-the-age-of-ai-key-insights-activity-7470655805696966656-sxvN|abstract
+" %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
 {% capture pub %}
@@ -34,11 +39,11 @@ Early version accepted to **NeurIPS 2025**.
 <details markdown="block">
 <summary>Presentations at...</summary>
 
-[UMass Amherst Theory Seminar](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints) (Oct, 2025),  
-[Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Oct, 2025),  
-[International Seminar on Foundational AI](https://www.fai-seminar.ac.cn/) (Nov, 2025),  
-[TwoSigma PhD Fellowship Reception](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN) (Feb, 2026),  
-[Citadel Securities PhD Summit](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) (Apr, 2026).
+* [UMass Amherst Theory Seminar](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints) (Oct, 2025)
+* [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Oct, 2025)
+* [International Seminar on Foundational AI](https://www.fai-seminar.ac.cn/) (Nov, 2025)
+* [TwoSigma PhD Fellowship Reception](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN) (Feb, 2026)
+* [Citadel Securities PhD Summit](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) (Apr, 2026)
 </details>
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2507.09473|paper
@@ -56,7 +61,7 @@ Early version accepted to **COLT 2025**.
 
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2502.08412|paper
-Ext. Abstract|https://proceedings.mlr.press/v291/dai25a/dai25a.pdf|abstract
+Ext. Abstract|https://proceedings.mlr.press/v291/dai25a.html|abstract
 Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 " %}
 {% endcapture %}
@@ -78,7 +83,7 @@ In *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, 8(
 **<font color="red">Best Paper Award</font>** of **ACM SIGMETRICS 2025**.  
 
 {% include pub-links.html links="
-Journal|https://dl.acm.org/doi/10.1145/3700413|journal
+Journal|https://dl.acm.org/doi/10.1145/3700413|paper
 Ext. Abstract|https://dl.acm.org/doi/10.1145/3726854.3727270|abstract
 Slides 20m|/files/slides_SIGMETRICS25_ANO_Bandit_Feedback.pdf|slides
 Video 5m|https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4|video
@@ -147,7 +152,7 @@ Aarush Kulkarni, Khang Nguyen, Ricardo Parada, Kenny Guo, William Chang, and **<
 
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2402.07082|paper
-Ext. Abstract|https://proceedings.mlr.press/v247/dai24a/dai24a.pdf|abstract
+Ext. Abstract|https://proceedings.mlr.press/v247/dai24a.html|abstract
 Slides|/files/slides_COLT24_Linear_Markov_Games.pdf|slides
 " %}
 {% endcapture %}
