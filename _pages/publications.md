@@ -24,11 +24,11 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 * [NBER Summer Institute Law and Economics Workshop](https://www.nber.org/conferences/si-2026-law-and-economics) (Jul, 2026)
 * [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Nov, 2026)
 </details>
-{% endcapture %}
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2606.12260|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_market-design-in-the-age-of-ai-key-insights-activity-7470655805696966656-sxvN|abstract
 " %}
+{% endcapture %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
 {% capture pub %}
