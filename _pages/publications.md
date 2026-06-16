@@ -73,6 +73,9 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% capture pub %}
 <span class="pub-title">Policy Regret for Embedding Model Routing: Contextual Bandits with Low-Rank Experts</span>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.
+{% include pub-links.html links="
+Preprint|https://arxiv.org/abs/2606.14929|paper
+" %}
 {% endcapture %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
