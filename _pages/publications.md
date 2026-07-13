@@ -14,12 +14,14 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 <span class="pub-title">Market Design for AI: Beyond the Copyright Binary</span>  
 **<span class="author-highlight">Yan Dai</span>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
 <details markdown="block">
-<summary>Early versions accepted to...</summary>
+<summary>Early versions /presented at...</summary>
 
 * [Wharton Accountable AI Research Conference](https://ai-analytics.wharton.upenn.edu/wharton-accountable-ai-lab/accountable-ai-research-conference/) (Feb, 2026)
 * [Stanford Market Design in the Age of AI Conference](https://datascience.stanford.edu/news/market-design-age-ai-key-insights-conference) (Feb, 2026)
-* [The 11th Marketplace Innovation Workshop](https://marketplaceinnovation.net/) (May, 2026)
-* [Informs M&SOM Conference Service Management SIG](https://www.hbs.edu/about/research/msom-conference-2026/program) (Jul, 2026)
+* [Eleventh Marketplace Innovation Workshop](https://marketplaceinnovation.net/) (May, 2026)
+* [Intellectual Property Researchers Europe Conference](https://www.unige.ch/droit/pi/research/ipre/2026) (Jun, 2026)
+* [EC'26 Incentive-Based AI Alignment Workshop (Keynote)](https://sites.google.com/view/ec26-ai-alignment-workshop/home) (Jul, 2026)
+* [Informs M&SOM Conference Service Operations SIG](https://www.hbs.edu/about/research/msom-conference-2026/program) (Jul, 2026; **10 out of 96**)
 * [Conference of Institutional & Organizational Economics](https://www.sioe.org/conference/2026) (Jul, 2026)
 * [NBER Summer Institute Law and Economics Workshop](https://www.nber.org/conferences/si-2026-law-and-economics) (Jul, 2026)
 * [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Nov, 2026)
@@ -28,6 +30,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 Preprint|https://arxiv.org/abs/2606.12260|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_market-design-in-the-age-of-ai-key-insights-activity-7470655805696966656-sxvN|abstract
 " %}
+Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 {% endcapture %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
@@ -37,7 +40,7 @@ Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_market-d
 Early version accepted to **NeurIPS 2025**.  
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
 <details markdown="block">
-<summary>Presentations at...</summary>
+<summary>Other presentations at...</summary>
 
 * [UMass Amherst Theory Seminar](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints) (Oct, 2025)
 * [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/) (Oct, 2025)
@@ -75,6 +78,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2606.14929|paper
+Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-artificialintelligence-share-7473477046187290627-FJo2|abstract
 " %}
 {% endcapture %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
