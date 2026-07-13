@@ -29,8 +29,8 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2606.12260|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_market-design-in-the-age-of-ai-key-insights-activity-7470655805696966656-sxvN|abstract
-" %}
 Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
+" %}
 {% endcapture %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
