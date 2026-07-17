@@ -14,7 +14,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 <span class="pub-title">Market Design for Generative AI: Beyond the Copyright Binary</span>  
 **<span class="author-highlight">Yan Dai</span>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
 <details markdown="block">
-<summary>Early versions /presented at...</summary>
+<summary>Early versions accepted to / presented at...</summary>
 
 * [Wharton Accountable AI Research Conference](https://ai-analytics.wharton.upenn.edu/wharton-accountable-ai-lab/accountable-ai-research-conference/) (Feb, 2026)
 * [Stanford Market Design in the Age of AI Conference](https://datascience.stanford.edu/news/market-design-age-ai-key-insights-conference) (Feb, 2026)
@@ -37,7 +37,6 @@ Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 {% capture pub %}
 <span class="pub-title">Efficiency, Feasibility, and Incentive-Awareness in Constrained Online Resource Allocation</span>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.  
-Under review at *Operations Research*.  
 Early version accepted to **NeurIPS 2025** under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints."  
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
 <details markdown="block">
