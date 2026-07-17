@@ -11,7 +11,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 # Economics and Computer Science
 <ul class="pub-list">
 {% capture pub %}
-<span class="pub-title">Market Design for Generative AI: Beyond the Copyright Binary</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2606.12260" target="_blank" rel="noopener">Market Design for Generative AI: Beyond the Copyright Binary</a>  
 **<span class="author-highlight">Yan Dai</span>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
 <details markdown="block">
 <summary>Early versions accepted to / presented at...</summary>
@@ -35,7 +35,7 @@ Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Efficiency, Feasibility, and Incentive-Awareness in Constrained Online Resource Allocation</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2507.09473" target="_blank" rel="noopener">Efficiency, Feasibility, and Incentive-Awareness in Constrained Online Resource Allocation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.  
 Early version accepted to **NeurIPS 2025** under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints."  
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
@@ -57,7 +57,7 @@ Slides 15m|/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents_Short.pdf|slide
 {% include pub-item.html venue="NeurIPS" year="2025" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Non-Monetary Mechanism Design without Priors: Achieving Efficiency via Adaptive Costly Audits</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2502.08412" target="_blank" rel="noopener">Non-Monetary Mechanism Design without Priors: Achieving Efficiency via Adaptive Costly Audits</a>  
 **<span class="author-highlight">Yan Dai</span>**, Moïse Blanchard, and Patrick Jaillet.  
 Under review at *Operations Research*.  
 Early version accepted to **COLT 2025** under the title "Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely."  
@@ -74,7 +74,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 # Bandits and Online Learning
 <ul class="pub-list">
 {% capture pub %}
-<span class="pub-title">Policy Regret for Embedding Model Routing: Contextual Bandits with Low-Rank Experts</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2606.14929" target="_blank" rel="noopener">Policy Regret for Embedding Model Routing: Contextual Bandits with Low-Rank Experts</a>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2606.14929|paper
@@ -84,7 +84,7 @@ Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks</span>  
+<a class="pub-title" href="https://dl.acm.org/doi/10.1145/3700413" target="_blank" rel="noopener">Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks</a>  
 **<span class="author-highlight">Yan Dai</span>** and Longbo Huang.  
 In *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, 8(3):31, 2024.  
 **<font color="red">Best Paper Award</font>** of **ACM SIGMETRICS 2025**.  
@@ -99,7 +99,7 @@ Video 5m|https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4|video
 {% include pub-item.html venue="SIGMETRICS" year="2025" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2410.03284" target="_blank" rel="noopener">uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs</a>  
 Yu Chen\*, Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, and Longbo Huang.  
 
 {% include pub-links.html links="
@@ -109,7 +109,7 @@ Preprint|https://arxiv.org/abs/2410.03284|paper
 {% include pub-item.html venue="ICLR" year="2025" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2301.10500" target="_blank" rel="noopener">Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning</a>  
 Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, and Longbo Huang.  
 
 {% include pub-links.html links="
@@ -121,7 +121,7 @@ Video|https://icml.cc/virtual/2023/poster/24900|video
 {% include pub-item.html venue="ICML" year="2023" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Variance-Aware Sparse Linear Bandits</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2205.13450" target="_blank" rel="noopener">Variance-Aware Sparse Linear Bandits</a>  
 **<span class="author-highlight">Yan Dai</span>**, Ruosong Wang, and Simon S. Du.  
 
 {% include pub-links.html links="
@@ -134,7 +134,7 @@ Video|https://iclr.cc/virtual/2023/poster/11675|video
 {% include pub-item.html venue="ICLR" year="2023" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2201.11921" target="_blank" rel="noopener">Adaptive Best-of-Both-Worlds Algorithm for Heavy-Tailed Multi-Armed Bandits</a>  
 Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, and Longbo Huang.  
 
 {% include pub-links.html links="
@@ -154,7 +154,7 @@ Aarush Kulkarni, Khang Nguyen, Ricardo Parada, Kenny Guo, William Chang, and **<
 {% include pub-item.html venue="Working" year="2026" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Refined Sample Complexity for Markov Games with Independent Linear Function Approximation</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2402.07082" target="_blank" rel="noopener">Refined Sample Complexity for Markov Games with Independent Linear Function Approximation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Qiwen Cui, and Simon S. Du.  
 
 {% include pub-links.html links="
@@ -166,7 +166,7 @@ Slides|/files/slides_COLT24_Linear_Markov_Games.pdf|slides
 {% include pub-item.html venue="COLT" year="2024" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Refined Regret for Adversarial MDPs with Linear Function Approximation</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2301.12942" target="_blank" rel="noopener">Refined Regret for Adversarial MDPs with Linear Function Approximation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Haipeng Luo, Chen-Yu Wei, and Julian Zimmert.  
 
 {% include pub-links.html links="
@@ -179,7 +179,7 @@ Video|https://icml.cc/virtual/2023/poster/24760|video
 {% include pub-item.html venue="ICML" year="2023" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2205.13451" target="_blank" rel="noopener">Follow-the-Perturbed-Leader for Adversarial Markov Decision Processes with Bandit Feedback</a>  
 **<span class="author-highlight">Yan Dai</span>**, Haipeng Luo, and Liyu Chen.  
 
 {% include pub-links.html links="
@@ -194,7 +194,7 @@ Video|https://neurips.cc/virtual/2022/poster/54395|video
 # Deep Learning Theory
 <ul class="pub-list">
 {% capture pub %}
-<span class="pub-title">Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2402.01567" target="_blank" rel="noopener">Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise</a>  
 Kwangjun Ahn, Zhiyu Zhang, Yunbum Kook, and **<span class="author-highlight">Yan Dai</span>**.  
 
 {% include pub-links.html links="
@@ -204,7 +204,7 @@ Preprint|https://arxiv.org/abs/2402.01567|paper
 {% include pub-item.html venue="ICML" year="2024" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">The Crucial Role of Normalization in Sharpness-Aware Minimization</span>  
+<a class="pub-title" href="https://arxiv.org/abs/2305.15287" target="_blank" rel="noopener">The Crucial Role of Normalization in Sharpness-Aware Minimization</a>  
 **<span class="author-highlight">Yan Dai*</span>**, Kwangjun Ahn\*, and Suvrit Sra.  
 
 {% include pub-links.html links="
