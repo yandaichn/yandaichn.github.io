@@ -45,6 +45,9 @@ My research focuses on the intersection of **Economics and Computer Science (Eco
 </ul>
 
 # Professional Services
-**Journal Reviewing**: Journal of Machine Learning Research (JMLR), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Learning; IEEE/ACM Transactions on Networking (TON), Performance Evaluation (PEVA), IEEE Internet of Things Journal (IoT-J).
+**Journal Reviewer**:
+* **Operations Research**: *Operations Research*;
+* **Machine Learning**: *Journal of Machine Learning Research* (JMLR), *IEEE Transactions on Pattern Analysis and Machine Intelligence* (TPAMI), *Machine Learning*, *Transactions on Machine Learning Research* (TMLR);
+* **Networking & Systems**: *IEEE/ACM Transactions on Networking* (TON), *Performance Evaluation* (PEVA), *IEEE Internet of Things Journal* (IoT-J).
 
-**Conference Reviewing**: COLT 2025, ICML 2026 (Gold reviewer) / 2025 / 2023, NeurIPS 2026 / 2025 / 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2026 / 2025 / 2023 / 2022, AAAI 2026, ALT 2023.
+**Conference Reviewer**: COLT 2025, ICML 2026 (Gold reviewer) / 2025 / 2023, NeurIPS 2026 / 2025 / 2024 / 2023 / 2022, ICLR 2025 / 2024, AISTATS 2026 / 2025 / 2023 / 2022, AAAI 2026, ALT 2023.
