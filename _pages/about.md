@@ -17,7 +17,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year PhD student at [**Operations Research Center (ORC), MIT**](https://orc.mit.edu/) where I am fortunate to be co-advised by [Patrick Jaillet](https://web.mit.edu/jaillet/www/) and [Negin Golrezaei](https://www.mit.edu/~golrezae/). In Summer 2026, I interned at [**Microsoft Research EconCS**](https://www.microsoft.com/en-us/research/theme/economics-and-computation/), where I was mentored by [Alex Slivkins](https://www.microsoft.com/en-us/research/people/slivkins/) and [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/).
+Hi! I am a third-year PhD student at [**Operations Research Center (ORC), MIT**](https://orc.mit.edu/) where I am fortunate to be co-advised by [Patrick Jaillet](https://web.mit.edu/jaillet/www/) and [Negin Golrezaei](https://www.mit.edu/~golrezae/). In Summer 2026, I was an intern at [**Microsoft Research EconCS**](https://www.microsoft.com/en-us/research/theme/economics-and-computation/) mentored by [Alex Slivkins](https://www.microsoft.com/en-us/research/people/slivkins/) and [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/).
 
 I obtained my Bachelor's degree from [**Yao Class, Tsinghua**](https://iiis.tsinghua.edu.cn/en/) in 2024. I am extremely grateful to [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/), [Haipeng Luo](https://haipeng-luo.net/), [Simon S. Du](https://simonshaoleidu.com/), and [Suvrit Sra](https://optml.mit.edu/) who introduced me to the world of learning theory.
 
@@ -46,7 +46,7 @@ My current research focuses on the intersection of **Economics and Computer Scie
 
 # Professional Services
 **Journal Reviewer**:
-* **Operations Research \& Economics**: *Operations Research*; *Games and Economic Behavior* (GEB);
+* **Operations Research & Economics**: *Operations Research*; *Games and Economic Behavior* (GEB);
 * **Machine Learning**: *Journal of Machine Learning Research* (JMLR), *IEEE Transactions on Pattern Analysis and Machine Intelligence* (TPAMI), *Machine Learning*, *Transactions on Machine Learning Research* (TMLR);
 * **Networking & Systems**: *IEEE/ACM Transactions on Networking* (TON), *Performance Evaluation* (PEVA), *IEEE Internet of Things Journal* (IoT-J).
 
