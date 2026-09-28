@@ -14,7 +14,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 <a class="pub-title" href="https://arxiv.org/abs/2507.09473" target="_blank" rel="noopener">Efficiency, Feasibility, and Incentive-Awareness in Constrained Online Resource Allocation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.  
 **Under Review at *Operations Research*.**  
-Early version accepted to **NeurIPS 2025** under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints."  
+Early version accepted to **NeurIPS 2025** <span class="pub-secondary">under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints."</span><br>
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
 <details markdown="block" open>
 <summary>Other presentations at...</summary>
@@ -38,7 +38,7 @@ Slides 15m|/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents_Short.pdf|slide
 <a class="pub-title" href="https://arxiv.org/abs/2502.08412" target="_blank" rel="noopener">Non-Monetary Mechanism Design without Priors: Achieving Efficiency via Adaptive Costly Audits</a>  
 **<span class="author-highlight">Yan Dai</span>**, Moïse Blanchard, and Patrick Jaillet.  
 **Major Revision at *Operations Research*.**  
-Early version accepted to **COLT 2025** under the title "Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely."  
+Early version accepted to **COLT 2025** <span class="pub-secondary">under the title "Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely."</span>
 
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2502.08412|paper

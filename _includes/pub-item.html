@@ -1,7 +1,6 @@
 <li>
   <div class="pub-meta">
-    <span class="pub-venue">{{ include.venue }}</span>
-    <span class="pub-year">{{ include.year }}</span>
+    <span class="pub-venue">{{ include.venue }}'{{ include.year | slice: -2, 2 }}</span>
     {% if include.note %}<span class="pub-note">{{ include.note }}</span>{% endif %}
   </div>
   <div class="pub-body">

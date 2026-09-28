@@ -173,7 +173,7 @@ a.pub-title:hover {
 
   > li {
     display: grid;
-    grid-template-columns: 7rem minmax(0, 1fr);
+    grid-template-columns: 7.5rem minmax(0, 1fr);
     column-gap: 0.75rem;
     padding: 0.48rem 0 0.52rem;
     border-bottom: 1px solid var(--global-divider-color);
@@ -195,10 +195,12 @@ a.pub-title:hover {
 
   .pub-venue {
     color: var(--global-theme-color);
+    white-space: nowrap;
   }
 
   .pub-note {
     max-width: 100%;
+    color: #b42318;
     font-size: 0.76rem;
     font-weight: 500;
     overflow-wrap: anywhere;
@@ -220,6 +222,15 @@ a.pub-title:hover {
     details {
       margin: 0.22rem 0 0.05rem;
       padding: 0;
+
+      > :not(summary),
+      > :not(summary) * {
+        color: var(--global-text-color-light);
+      }
+
+      > :not(summary) a {
+        text-decoration: none;
+      }
     }
 
     summary {
@@ -271,6 +282,14 @@ a.pub-title:hover {
       padding-left: 0;
     }
   }
+}
+
+.pub-secondary {
+  color: var(--global-text-color-light);
+}
+
+html[data-theme='dark'] .pub-note {
+  color: #ff6b6b;
 }
 
 .pub-links {
