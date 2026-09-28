@@ -15,16 +15,16 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.  
 **Under Review at *Operations Research*.**  
 Early version accepted to NeurIPS'25 <span class="pub-secondary">(under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints").</span><br>
-**<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
+**<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS'25.  
 <details markdown="block">
 <summary>Other presentations</summary>
 
-* [*Asia-Pacific Operations Research Societies (APORS) Youth Forum*](http://apors.org/apors-youth-forum-2026/), Singapore (Nov, 2026)
-* [*Cornell ORIE Young Researchers Workshop*](https://www.duffield.cornell.edu/orie/young-researchers-workshop/), Ithaca, NY (Oct, 2026)
-* As a finalist, [*Citadel Securities PhD Summit*](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/), Miami, FL (Apr, 2026)
-* As a finalist, [*TwoSigma PhD Fellowship Final Presentation*](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN), New York, NY (Feb, 2026)
-* As an invited speaker, [*UMass Amherst Theory Seminar*](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints), Amherst, MA (Oct, 2025)
-* As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA (Oct, 2025)
+* [*Asia-Pacific Operations Research Societies (APORS) Youth Forum*](http://apors.org/apors-youth-forum-2026/), Singapore (Nov'26)
+* [*Cornell ORIE Young Researchers Workshop*](https://www.duffield.cornell.edu/orie/young-researchers-workshop/), Ithaca, NY (Oct'26)
+* As a finalist, [*Citadel Securities PhD Summit*](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/), Miami, FL (Apr'26)
+* As a finalist, [*TwoSigma PhD Fellowship Final Presentation*](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN), New York, NY (Feb'26)
+* As an invited speaker, [*UMass Amherst Theory Seminar*](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints), Amherst, MA (Oct'25)
+* As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA (Oct'25)
 </details>
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2507.09473|paper
@@ -55,8 +55,8 @@ Early version accepted to 2026 M&SOM Service Oprations SIG (acceptance rate: **1
 <details markdown="block">
 <summary>Other presentations</summary>
 
-* As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), San Francisco, CA (Nov, 2026)
-* [*Eleventh Marketplace Innovation Workshop*](https://marketplaceinnovation.net/), online (May, 2026)
+* As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), San Francisco, CA (Nov'26)
+* [*Eleventh Marketplace Innovation Workshop*](https://marketplaceinnovation.net/), online (May'26)
 </details>
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2606.12260|paper
@@ -72,7 +72,7 @@ Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 {% capture pub %}
 <a class="pub-title" href="https://dl.acm.org/doi/10.1145/3700413" target="_blank" rel="noopener">Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks</a>  
 **<span class="author-highlight">Yan Dai</span>** and Longbo Huang.  
-In *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, 8(3):31, 2024.  
+In *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, 8(3):31'24.  
 **<font color="red">Best Paper Award</font>** of **ACM SIGMETRICS'25**.
 
 {% include pub-links.html links="
