@@ -200,8 +200,9 @@ a.pub-title:hover {
 
   .pub-note {
     max-width: 100%;
-    color: #b42318;
+    color: red;
     font-size: 0.76rem;
+    font-style: italic;
     font-weight: 500;
     overflow-wrap: anywhere;
   }
@@ -286,10 +287,6 @@ a.pub-title:hover {
 
 .pub-secondary {
   color: var(--global-text-color-light);
-}
-
-html[data-theme='dark'] .pub-note {
-  color: #ff6b6b;
 }
 
 .pub-links {

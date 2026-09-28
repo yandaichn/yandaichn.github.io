@@ -14,10 +14,10 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 <a class="pub-title" href="https://arxiv.org/abs/2507.09473" target="_blank" rel="noopener">Efficiency, Feasibility, and Incentive-Awareness in Constrained Online Resource Allocation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, and Patrick Jaillet.  
 **Under Review at *Operations Research*.**  
-Early version accepted to **NeurIPS 2025** <span class="pub-secondary">under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints."</span><br>
+Early version accepted to NeurIPS'25. <span class="pub-secondary">(under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints")</span><br>
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
-<details markdown="block" open>
-<summary>Other presentations at...</summary>
+<details markdown="block">
+<summary>Other presentations</summary>
 
 * [*Asia-Pacific Operations Research Societies (APORS) Youth Forum*](http://apors.org/apors-youth-forum-2026/), Singapore (Nov, 2026)
 * [*Cornell ORIE Young Researchers Workshop*](https://www.duffield.cornell.edu/orie/young-researchers-workshop/), Ithaca, NY (Oct, 2026)
@@ -38,7 +38,7 @@ Slides 15m|/files/slides_NeurIPS25_Constr_Alloc_Strategic_Agents_Short.pdf|slide
 <a class="pub-title" href="https://arxiv.org/abs/2502.08412" target="_blank" rel="noopener">Non-Monetary Mechanism Design without Priors: Achieving Efficiency via Adaptive Costly Audits</a>  
 **<span class="author-highlight">Yan Dai</span>**, Moïse Blanchard, and Patrick Jaillet.  
 **Major Revision at *Operations Research*.**  
-Early version accepted to **COLT 2025** <span class="pub-secondary">under the title "Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely."</span>
+Early version accepted to COLT'25. <span class="pub-secondary">(under the title "Non-Monetary Mechanism Design without Distributional Information: Using Scarce Audits Wisely")</span>
 
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2502.08412|paper
@@ -51,11 +51,11 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2606.12260" target="_blank" rel="noopener">Market Design for Generative AI: Beyond the Copyright Binary</a>  
 **<span class="author-highlight">Yan Dai</span>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
-<details markdown="block" open>
-<summary>Other presentations at...</summary>
+Presented at Service Oprations SIG, 2026 INFORMS M&SOM Conference (acceptance rate: **10/96**).
+<details markdown="block">
+<summary>Other presentations</summary>
 
 * As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), San Francisco, CA (Nov, 2026)
-* Service Operations SIG (acceptance rate: **10/96**), [*Informs M&SOM Conference*](https://www.hbs.edu/about/research/msom-conference-2026/program), Cambridge, MA (Jul, 2026)
 * [*Eleventh Marketplace Innovation Workshop*](https://marketplaceinnovation.net/), online (May, 2026)
 </details>
 {% include pub-links.html links="
@@ -64,7 +64,7 @@ Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_market-d
 Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 " %}
 {% endcapture %}
-{% include pub-item.html venue="Working" year="2026" content=pub %}
+{% include pub-item.html venue="Working" content=pub %}
 </ul>
 
 # Bandits and Online Learning Theory
@@ -73,7 +73,7 @@ Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 <a class="pub-title" href="https://dl.acm.org/doi/10.1145/3700413" target="_blank" rel="noopener">Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks</a>  
 **<span class="author-highlight">Yan Dai</span>** and Longbo Huang.  
 In *Proceedings of the ACM on Measurement and Analysis of Computing Systems*, 8(3):31, 2024.  
-**<font color="red">Best Paper Award</font>** of **ACM SIGMETRICS 2025**.  
+**<font color="red">Best Paper Award</font>** of **ACM SIGMETRICS'25**.
 
 {% include pub-links.html links="
 Journal|https://dl.acm.org/doi/10.1145/3700413|paper
@@ -82,7 +82,7 @@ Slides 20m|/files/slides_SIGMETRICS25_ANO_Bandit_Feedback.pdf|slides
 Video 5m|https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4|video
 " %}
 {% endcapture %}
-{% include pub-item.html venue="SIGMETRICS" year="2025" note="Best Paper" content=pub %}
+{% include pub-item.html venue="SIGMETRICS" year="2025" note="Best Paper Award" content=pub %}
 
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2410.03284" target="_blank" rel="noopener">uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs</a>  
@@ -92,7 +92,7 @@ Yu Chen\*, Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, a
 Preprint|https://arxiv.org/abs/2410.03284|paper
 " %}
 {% endcapture %}
-{% include pub-item.html venue="ICLR" year="2025" note="Spotlight" content=pub %}
+{% include pub-item.html venue="ICLR" year="2025" note="Spotlight (top 5%)" content=pub %}
 
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2301.10500" target="_blank" rel="noopener">Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning</a>  
@@ -138,7 +138,7 @@ Preprint|https://arxiv.org/abs/2606.14929|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-artificialintelligence-share-7473477046187290627-FJo2|abstract
 " %}
 {% endcapture %}
-{% include pub-item.html venue="Working" year="2026" content=pub %}
+{% include pub-item.html venue="Working" content=pub %}
 </ul>
 
 # Adversarial Reinforcement Learning Theory
@@ -182,9 +182,9 @@ Video|https://neurips.cc/virtual/2022/poster/54395|video
 
 {% capture pub %}
 <span class="pub-title">Learning Adversarial Continuous MDPs with Bandit Feedback and Unknown Transitions</span>  
-Aarush Kulkarni, Khang Nguyen, Ricardo Parada, Kenny Guo, William Chang, and **<span class="author-highlight">Yan Dai</span>** (*mentoring project*).
+Aarush Kulkarni, Khang Nguyen, Ricardo Parada, Kenny Guo, William Chang, and **<span class="author-highlight">Yan Dai</span>**.
 {% endcapture %}
-{% include pub-item.html venue="Working" year="2026" content=pub %}
+{% include pub-item.html venue="Working" note="Mentoring Project" content=pub %}
 
 </ul>
 
