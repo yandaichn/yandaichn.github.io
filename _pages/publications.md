@@ -21,10 +21,10 @@ Early version accepted to **NeurIPS 2025** under the title "Incentive-Aware Dyna
 
 * [*Asia-Pacific Operations Research Societies (APORS) Youth Forum*](http://apors.org/apors-youth-forum-2026/), Singapore (Nov, 2026)
 * [*Cornell ORIE Young Researchers Workshop*](https://www.duffield.cornell.edu/orie/young-researchers-workshop/), Ithaca, NY (Oct, 2026)
-* [*Citadel Securities PhD Summit*](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) as a finalist, Miami, FL (Apr, 2026)
-* [*TwoSigma PhD Fellowship Final Presentation*](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN) as a finalist, New York, NY (Feb, 2026)
-* [*UMass Amherst Theory Seminar*](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints) as an invited speaker, Amherst, MA (Oct, 2025)
-* [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/) as an invited talk, Atlanta, GA (Oct, 2025)
+* As a finalist, [*Citadel Securities PhD Summit*](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/), Miami, FL (Apr, 2026)
+* As a finalist, [*TwoSigma PhD Fellowship Final Presentation*](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN), New York, NY (Feb, 2026)
+* As an invited speaker, [*UMass Amherst Theory Seminar*](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints), Amherst, MA (Oct, 2025)
+* As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA (Oct, 2025)
 </details>
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2507.09473|paper
@@ -54,8 +54,8 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 <details markdown="block">
 <summary>Other presentations at...</summary>
 
-* [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/) as an invited talk, San Francisco, CA (Nov, 2026)
-* [*Informs M&SOM Conference*](https://www.hbs.edu/about/research/msom-conference-2026/program), Service Operations SIG (acceptance rate: **10 out of 96**), Cambridge, MA (Jul, 2026)
+* As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), San Francisco, CA (Nov, 2026)
+* Service Operations SIG (acceptance rate: **10/96**), [*Informs M&SOM Conference*](https://www.hbs.edu/about/research/msom-conference-2026/program), Cambridge, MA (Jul, 2026)
 * [*Eleventh Marketplace Innovation Workshop*](https://marketplaceinnovation.net/), online (May, 2026)
 </details>
 {% include pub-links.html links="
