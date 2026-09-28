@@ -7,9 +7,6 @@ layout: default
         <header class="post-header">
           <h1 class="post-title">
             <span class="title-name">{% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}</span>
-            {%- if page.social %}
-              <span class="title-icons">{% include social.html %}</span>
-            {%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
@@ -31,6 +28,9 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            {%- if page.social %}
+              <div class="profile-social" aria-label="Contact links">{% include social.html %}</div>
+            {%- endif %}
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}

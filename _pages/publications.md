@@ -16,7 +16,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 **Under Review at *Operations Research*.**  
 Early version accepted to **NeurIPS 2025** under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints."  
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
-<details markdown="block">
+<details markdown="block" open>
 <summary>Other presentations at...</summary>
 
 * [*Asia-Pacific Operations Research Societies (APORS) Youth Forum*](http://apors.org/apors-youth-forum-2026/), Singapore (Nov, 2026)
@@ -51,7 +51,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2606.12260" target="_blank" rel="noopener">Market Design for Generative AI: Beyond the Copyright Binary</a>  
 **<span class="author-highlight">Yan Dai</span>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
-<details markdown="block">
+<details markdown="block" open>
 <summary>Other presentations at...</summary>
 
 * As an invited talk, [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), San Francisco, CA (Nov, 2026)
@@ -82,18 +82,17 @@ Slides 20m|/files/slides_SIGMETRICS25_ANO_Bandit_Feedback.pdf|slides
 Video 5m|https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4|video
 " %}
 {% endcapture %}
-{% include pub-item.html venue="SIGMETRICS" year="2025" content=pub %}
+{% include pub-item.html venue="SIGMETRICS" year="2025" note="Best Paper" content=pub %}
 
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2410.03284" target="_blank" rel="noopener">uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs</a>  
-Yu Chen\*, Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, and Longbo Huang.  
-As a *spotlight (top 5%)* presentation.
+Yu Chen\*, Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, and Longbo Huang.
 
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2410.03284|paper
 " %}
 {% endcapture %}
-{% include pub-item.html venue="ICLR" year="2025" content=pub %}
+{% include pub-item.html venue="ICLR" year="2025" note="Spotlight" content=pub %}
 
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2301.10500" target="_blank" rel="noopener">Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning</a>  
