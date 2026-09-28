@@ -223,6 +223,7 @@ a.pub-title:hover {
     details {
       margin: 0.22rem 0 0.05rem;
       padding: 0;
+      font-size: 0.82rem;
 
       > :not(summary),
       > :not(summary) * {
@@ -287,6 +288,7 @@ a.pub-title:hover {
 
 .pub-secondary {
   color: var(--global-text-color-light);
+  font-size: 0.82rem;
 }
 
 .pub-links {
