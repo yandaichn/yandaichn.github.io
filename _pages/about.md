@@ -25,23 +25,23 @@ My current research focuses on the intersection of **Economics and Computer Scie
 
 # Recent News
 <ul class="news-list-lite">
-  <li><span class="news-date">Feb'26</span><span>Named as a <a href="https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN"><strong>Runner-Up</strong></a> of the Two Sigma PhD Fellowship (2 winners and 2 runners-up).</span></li>
-  <!-- <li><span class="news-date">Sep'25</span><span><a href="https://arxiv.org/abs/2507.09473">Incentive-Aware Dynamic Resource Allocation under Constraints</a> accepted to <strong>NeurIPS'25</strong>.</span></li> -->
-  <li><span class="news-date">Jun'25</span><span><a href="https://dl.acm.org/doi/10.1145/3700413">Adversarial Network Optimization under Bandit Feedback</a> won <a href="https://sigmetrics.org/awards.shtml#paperawards"><strong>Best Paper Award</strong></a> at ACM SIGMETRICS'25!</span></li>
-  <li><span class="news-date">Jun'25</span><span><a href="https://arxiv.org/abs/2507.09473">Incentive-Aware Dynamic Resource Allocation under Constraints</a> won <a href="https://www.sigmetrics.org/sigmetrics2025/student_activities.html"><strong>1st Place</strong></a> in ACM Student Research Competition (SRC) held at SIGMETRICS'25!</span></li>
-  <!-- <li><span class="news-date">May'25</span><span><a href="https://arxiv.org/abs/2502.08412">Non-Monetary Mechanism Design without Distributions</a> accepted to <strong>COLT'25</strong>.</span></li> -->
-  <!-- <li><span class="news-date">Jan'25</span><span><a href="https://arxiv.org/abs/2410.03284">Refined Best-of-Both-Worlds Heavy-Tailed MABs</a> accepted to <strong>ICLR'25</strong> as Spotlight (5.1%).</span></li> -->
-  <!-- <li><span class="news-date">Dec'24</span><span><a href="https://dl.acm.org/doi/10.1145/3700413">Adversarial Network Optimization under Bandit Feedback</a> accepted to <strong>SIGMETRICS'25</strong>.</span></li> -->
-  <li><span class="news-date">Jun'24</span><span>Awarded <strong>Outstanding Graduate</strong> by Beijing, by Tsinghua, and by Yao Class.</span></li>
-  <!-- <li><span class="news-date">May'24</span><span><a href="https://arxiv.org/abs/2402.07082">Refined Linear Markov Games</a> accepted to <strong>COLT'24</strong>.</span></li> -->
-  <!-- <li><span class="news-date">May'24</span><span><a href="https://arxiv.org/abs/2402.01567">Adam is FTRL in Disguise</a> accepted to <strong>ICML'24</strong>.</span></li> -->
-  <li><span class="news-date">Nov'23</span><span>Awarded <strong>Presidential Scholarship (10 undergrads per year)</strong> by Tsinghua!</span></li>
-  <!-- <li><span class="news-date">Sep'23</span><span><a href="https://arxiv.org/abs/2305.15287">Role of Normalization in SAM</a> accepted to <strong>NeurIPS'23</strong>.</span></li> -->
-  <li><span class="news-date">Sep'23</span><span>Awarded <strong>"Andrew C. Yao Award" Gold Medal (1 per year)</strong> by Yao Class!</span></li>
-  <!-- <li><span class="news-date">Apr'23</span><span><a href="https://arxiv.org/abs/2301.12942">Refined Adversarial Linear(-Q) MDPs</a> and <a href="https://arxiv.org/abs/2301.10500">Banker-OMD Framework for Delayed Bandits</a> accepted to <strong>ICML'23</strong>.</span></li> -->
-  <!-- <li><span class="news-date">Jan'23</span><span><a href="https://arxiv.org/abs/2205.13450">Variance-Aware Sparse Linear Bandits</a> accepted to <strong>ICLR'23</strong>.</span></li> -->
-  <!-- <li><span class="news-date">Sep'22</span><span><a href="https://arxiv.org/abs/2205.13451">FTPL in Adversarial MDPs</a> accepted to <strong>NeurIPS'22</strong>.</span></li> -->
-  <!-- <li><span class="news-date">May'22</span><span><a href="https://arxiv.org/abs/2201.11921">Best-of-Both-Worlds Heavy-Tailed MABs</a> accepted to <strong>ICML'22</strong>.</span></li> -->
+  <li><span class="news-date">Feb 2026</span><span>Named as a <a href="https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN"><strong>Runner-Up</strong></a> of the Two Sigma PhD Fellowship (2 winners and 2 runners-up).</span></li>
+  <!-- <li><span class="news-date">Sep 2025</span><span><a href="https://arxiv.org/abs/2507.09473">Incentive-Aware Dynamic Resource Allocation under Constraints</a> accepted to <strong>NeurIPS 2025</strong>.</span></li> -->
+  <li><span class="news-date">Jun 2025</span><span><a href="https://dl.acm.org/doi/10.1145/3700413">Adversarial Network Optimization under Bandit Feedback</a> won <a href="https://sigmetrics.org/awards.shtml#paperawards"><strong>Best Paper Award</strong></a> at ACM SIGMETRICS 2025!</span></li>
+  <li><span class="news-date">Jun 2025</span><span><a href="https://arxiv.org/abs/2507.09473">Incentive-Aware Dynamic Resource Allocation under Constraints</a> won <a href="https://www.sigmetrics.org/sigmetrics2025/student_activities.html"><strong>1st Place</strong></a> in ACM Student Research Competition (SRC) held at SIGMETRICS 2025!</span></li>
+  <!-- <li><span class="news-date">May 2025</span><span><a href="https://arxiv.org/abs/2502.08412">Non-Monetary Mechanism Design without Distributions</a> accepted to <strong>COLT 2025</strong>.</span></li> -->
+  <!-- <li><span class="news-date">Jan 2025</span><span><a href="https://arxiv.org/abs/2410.03284">Refined Best-of-Both-Worlds Heavy-Tailed MABs</a> accepted to <strong>ICLR 2025</strong> as Spotlight (5.1%).</span></li> -->
+  <!-- <li><span class="news-date">Dec 2024</span><span><a href="https://dl.acm.org/doi/10.1145/3700413">Adversarial Network Optimization under Bandit Feedback</a> accepted to <strong>SIGMETRICS 2025</strong>.</span></li> -->
+  <li><span class="news-date">Jun 2024</span><span>Awarded <strong>Outstanding Graduate</strong> by Beijing, by Tsinghua, and by Yao Class.</span></li>
+  <!-- <li><span class="news-date">May 2024</span><span><a href="https://arxiv.org/abs/2402.07082">Refined Linear Markov Games</a> accepted to <strong>COLT 2024</strong>.</span></li> -->
+  <!-- <li><span class="news-date">May 2024</span><span><a href="https://arxiv.org/abs/2402.01567">Adam is FTRL in Disguise</a> accepted to <strong>ICML 2024</strong>.</span></li> -->
+  <li><span class="news-date">Nov 2023</span><span>Awarded <strong>Presidential Scholarship (10 undergrads per year)</strong> by Tsinghua!</span></li>
+  <!-- <li><span class="news-date">Sep 2023</span><span><a href="https://arxiv.org/abs/2305.15287">Role of Normalization in SAM</a> accepted to <strong>NeurIPS 2023</strong>.</span></li> -->
+  <li><span class="news-date">Sep 2023</span><span>Awarded <strong>"Andrew C. Yao Award" Gold Medal (1 per year)</strong> by Yao Class!</span></li>
+  <!-- <li><span class="news-date">Apr 2023</span><span><a href="https://arxiv.org/abs/2301.12942">Refined Adversarial Linear(-Q) MDPs</a> and <a href="https://arxiv.org/abs/2301.10500">Banker-OMD Framework for Delayed Bandits</a> accepted to <strong>ICML 2023</strong>.</span></li> -->
+  <!-- <li><span class="news-date">Jan 2023</span><span><a href="https://arxiv.org/abs/2205.13450">Variance-Aware Sparse Linear Bandits</a> accepted to <strong>ICLR 2023</strong>.</span></li> -->
+  <!-- <li><span class="news-date">Sep 2022</span><span><a href="https://arxiv.org/abs/2205.13451">FTPL in Adversarial MDPs</a> accepted to <strong>NeurIPS 2022</strong>.</span></li> -->
+  <!-- <li><span class="news-date">May 2022</span><span><a href="https://arxiv.org/abs/2201.11921">Best-of-Both-Worlds Heavy-Tailed MABs</a> accepted to <strong>ICML 2022</strong>.</span></li> -->
 </ul>
 
 # Professional Services
