@@ -23,8 +23,8 @@ Early version accepted to **NeurIPS 2025** under the title "Incentive-Aware Dyna
 * [*Cornell ORIE Young Researchers Workshop*](https://www.duffield.cornell.edu/orie/young-researchers-workshop/), Ithaca, NY (Oct, 2026)
 * [*Citadel Securities PhD Summit*](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) as a finalist, Miami, FL (Apr, 2026)
 * [*TwoSigma PhD Fellowship Final Presentation*](https://www.linkedin.com/posts/two-sigma-investments_two-sigma-2025-phd-fellowship-activity-7432484564134051842-6gzN) as a finalist, New York, NY (Feb, 2026)
-* [*UMass Amherst Theory Seminar*](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints), Amherst, MA (Oct, 2025)
-* [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA (Oct, 2025)
+* [*UMass Amherst Theory Seminar*](https://theory.cs.umass.edu/seminar#incentive-aware-dynamic-resource-allocation-under-long-term-cost-constraints) as an invited speaker, Amherst, MA (Oct, 2025)
+* [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/) as an invited talk, Atlanta, GA (Oct, 2025)
 </details>
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2507.09473|paper
@@ -47,7 +47,6 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 " %}
 {% endcapture %}
 {% include pub-item.html venue="COLT" year="2025" content=pub %}
-</ul>
 
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2606.12260" target="_blank" rel="noopener">Market Design for Generative AI: Beyond the Copyright Binary</a>  
@@ -55,7 +54,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 <details markdown="block">
 <summary>Other presentations at...</summary>
 
-* [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), San Francisco, CA (Nov, 2026)
+* [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/) as an invited talk, San Francisco, CA (Nov, 2026)
 * [*Informs M&SOM Conference*](https://www.hbs.edu/about/research/msom-conference-2026/program), Service Operations SIG (acceptance rate: **10 out of 96**), Cambridge, MA (Jul, 2026)
 * [*Eleventh Marketplace Innovation Workshop*](https://marketplaceinnovation.net/), online (May, 2026)
 </details>
@@ -66,6 +65,7 @@ Slides 30m|/files/slides_GenAI_Data_Market.pdf|slides
 " %}
 {% endcapture %}
 {% include pub-item.html venue="Working" year="2026" content=pub %}
+</ul>
 
 # Bandits and Online Learning Theory
 <ul class="pub-list">
@@ -87,7 +87,7 @@ Video 5m|https://youtu.be/DY2Qdu-Gk_8?si=9MKIHiEjfr0beQi4|video
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2410.03284" target="_blank" rel="noopener">uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs</a>  
 Yu Chen\*, Jiatai Huang\*, **<span class="author-highlight">Yan Dai*</span>**, and Longbo Huang.  
-As a *spotlight (top 5\%)* presentation.
+As a *spotlight (top 5%)* presentation.
 
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2410.03284|paper
