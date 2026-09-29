@@ -6,17 +6,13 @@ nav: true
 nav_order: 2
 ---
 
-## Research Awards
-<ul class="news-list-lite">
-  <li><span class="news-date">Jun 2025</span><span><strong>Best Paper Award</strong> of ACM SIGMETRICS 2025.<br><em>Paper title: Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks.</em></span></li>
-  <li><span class="news-date">Jun 2025</span><span><strong>1st Place</strong> in ACM Student Research Competition (SRC) held at SIGMETRICS 2025.<br><em>Paper title: Resource Allocation to Strategic Agents under Cost Constraints.</em></span></li>
-</ul>
-
-## Fellowship and Scholarship
+## Research Awards, Fellowship, and Scholarship
 <ul class="news-list-lite">
   <li><span class="news-date">Feb 2026</span><span><strong>Runner-Up</strong> of Two Sigma PhD Fellowship (2 winners and 2 runners-up).<br></span></li>
+  <li><span class="news-date">Jun 2025</span><span><strong>Best Paper Award</strong> of ACM SIGMETRICS 2025.<br><em>Paper title: Adversarial Network Optimization under Bandit Feedback: Maximizing Utility in Non-Stationary Multi-Hop Networks.</em></span></li>
+  <li><span class="news-date">Jun 2025</span><span><strong>1st Place</strong> in ACM Student Research Competition (SRC) held at SIGMETRICS 2025.<br><em>Paper title: Resource Allocation to Strategic Agents under Cost Constraints.</em></span></li>
   <li><span class="news-date">Jun 2024</span><span><strong>Outstanding Graduate</strong> named by Beijing (<em>5%</em>), by Tsinghua (<em>2%</em>), and by Yao Class (<em>10%</em>).</span></li>
-  <li><span class="news-date">Nov 2023</span><span><strong>Presidential Schorlarship (特等奖学金)</strong>, Tsinghua University.<br><em>Top scholarship for Tsinghua undergrads. 10/16,000+ university-wide.</em></span></li>
+  <li><span class="news-date">Nov 2023</span><span><strong>Presidential Scholarship (特等奖学金)</strong>, Tsinghua University.<br><em>Top scholarship for Tsinghua undergrads. 10/16,000+ university-wide.</em></span></li>
   <li><span class="news-date">Nov 2023</span><span><strong>"Andrew C. Yao Award" Gold Medal</strong>, Yao Class, Tsinghua University.<br><em>Top scholarship in Yao Class. 1 student institute-wide.</em></span></li>
 </ul>
 
