@@ -51,7 +51,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2606.12260" target="_blank" rel="noopener">Market Design for Generative AI: Beyond the Copyright Binary</a>  
 **<span class="author-highlight">Yan Dai</span>**, Maryam Farboodi, Negin Golrezaei, and Sepehr Shahshahani.  
-Early version accepted to 2026 M&SOM Service Oprations SIG (acceptance rate: **10/96**).
+Early version accepted to 2026 M&SOM Service Operations SIG (acceptance rate: **10/96**).
 <details markdown="block">
 <summary>Other presentations</summary>
 
