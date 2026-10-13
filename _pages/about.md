@@ -46,8 +46,8 @@ My current research focuses on the intersection of **Economics and Computer Scie
 
 # Professional Services
 **Journal Reviewer**:
-* **Operations Research & Economics**: *Operations Research*; *Games and Economic Behavior* (GEB);
-* **Machine Learning**: *Journal of Machine Learning Research* (JMLR), *IEEE Transactions on Pattern Analysis and Machine Intelligence* (TPAMI), *Machine Learning*, *Transactions on Machine Learning Research* (TMLR);
+* **Operations Research & Economics**: *Operations Research* (OR); *Games and Economic Behavior* (GEB);
+* **Machine Learning**: *Journal of Machine Learning Research* (JMLR), *IEEE Transactions on Pattern Analysis and Machine Intelligence* (TPAMI), *Machine Learning* (MLJ), *Transactions on Machine Learning Research* (TMLR);
 * **Networking & Systems**: *IEEE/ACM Transactions on Networking* (TON), *Performance Evaluation* (PEVA), *IEEE Internet of Things Journal* (IoT-J).
 
-**Conference Reviewer**: COLT 25, ICML 26 (gold reviewer) / 25 / 23, NeurIPS 26 / 25 / 24 / 23 / 22, ICLR 27 / 25 / 24, AISTATS 26 / 25 / 23 / 22, AAAI 27 / 26, ALT 23.
+**Conference Reviewer**: COLT 25, ICML 26 (gold reviewer) / 25 / 23, NeurIPS 26 / 25 / 24 / 23 / 22, ICLR 27 / 25 / 24, AISTATS 27 / 26 / 25 / 23 / 22, AAAI 27 / 26, ALT 23.
