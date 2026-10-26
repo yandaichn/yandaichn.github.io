@@ -21,7 +21,7 @@ Hi! I am a third-year PhD student at [**Operations Research Center (ORC), MIT**]
 
 I obtained my Bachelor's degree from [**Yao Class, Tsinghua**](https://iiis.tsinghua.edu.cn/en/) in 2024. I am extremely grateful to [Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/), [Haipeng Luo](https://haipeng-luo.net/), [Simon S. Du](https://simonshaoleidu.com/), and [Suvrit Sra](https://optml.mit.edu/) who introduced me to the world of learning theory.
 
-My current research focuses on the intersection of **Economics and Computer Science (EconCS)**, specifically on market design, pricing, and resource allocation with strategic agents and incomplete information. As my toolkit, I'm also broadly interested in **Learning Theory**: bandits, online learning, and adversarial reinforcement learning theory.
+My current research focuses on the intersection of **Economics and Computer Science (EconCS)**, specifically on mechanism design, pricing, and resource allocation with feedback from strategic agents. It builds on my work in **Learning Theory**: bandits, online learning, learning in games, and reinforcement learning theory. My broader interests include information economics, queueing networks, and optimization for deep learning.
 
 # Recent News
 <ul class="news-list-lite">
