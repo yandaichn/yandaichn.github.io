@@ -56,7 +56,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 
 
 {% capture pub %}
-<span class="pub-title">Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal √S and √K Dependencies in Tabular and Linear AMDPs</span>  
+<span class="pub-title">Speed of Social Learning with Pricing</span>  
 **<span class="author-highlight">Yan Dai</span>**, Brendan Lucier, Nicole Immorlica, Aleksandrs Slivkins.
 {% endcapture %}
 {% include pub-item.html venue="Working" content=pub %}
