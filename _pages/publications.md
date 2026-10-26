@@ -56,7 +56,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 
 
 {% capture pub %}
-<span class="pub-title">Speed of Social Learning with Pricing</span>  
+<span class="pub-title">The Speed of Social Learning with Pricing</span>  
 **<span class="author-highlight">Yan Dai</span>**, Brendan Lucier, Nicole Immorlica, Aleksandrs Slivkins.
 {% endcapture %}
 {% include pub-item.html venue="Working" content=pub %}
@@ -151,7 +151,7 @@ Preprint|https://arxiv.org/abs/2606.14929|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-artificialintelligence-share-7473477046187290627-FJo2|abstract
 " %}
 {% endcapture %}
-{% include pub-item.html venue="Working" content=pub %}
+{% include pub-item.html venue="Submission" content=pub %}
 </ul>
 
 # Reinforcement Learning Theory
