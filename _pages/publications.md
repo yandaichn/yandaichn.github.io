@@ -49,7 +49,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% include pub-item.html venue="COLT" year="2025" content=pub %}
 
 {% capture pub %}
-<span class="pub-title">The Power of Two Choices in Dynamic Pricing: As Good As Full Feedback, Instance-Wise</span> 
+<a class="pub-title" href="https://https://arxiv.org/abs/2611.10345" target="_blank" rel="noopener">The Power of Two Choices in Dynamic Pricing: As Good As Full Feedback, Instance-Wise</a> 
 **<span class="author-highlight">Yan Dai</span>**, Tao Lin, Aleksandrs Slivkins.
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2611.10345|paper
