@@ -49,7 +49,7 @@ Slides|/files/slides_COLT25_Mech_Design_via_Audits.pdf|slides
 {% include pub-item.html venue="COLT" year="2025" content=pub %}
 
 {% capture pub %}
-<a class="pub-title" href="https://https://arxiv.org/abs/2611.10345" target="_blank" rel="noopener">The Power of Two Choices in Dynamic Pricing: As Good As Full Feedback, Instance-Wise</a> 
+<a class="pub-title" href="https://arxiv.org/abs/2611.10345" target="_blank" rel="noopener">The Power of Two Choices in Dynamic Pricing: As Good As Full Feedback, Instance-Wise</a> 
 **<span class="author-highlight">Yan Dai</span>**, Tao Lin, Aleksandrs Slivkins.
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2611.10345|paper
@@ -200,7 +200,6 @@ Video|https://neurips.cc/virtual/2022/poster/54395|video
 {% capture pub %}
 <span class="pub-title">Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal √S and √K Dependencies in Tabular and Linear AMDPs</span>  
 Aarush Kulkarni, Khang Nguyen, William Chang, **<span class="author-highlight">Yan Dai</span>**.
-{% endcapture %}
 {% include pub-links.html links="
 PDF|https://github.com/sigact-stoc/stoc2027/releases/download/papers-1/84.pdf|paper
 " %}
