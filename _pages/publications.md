@@ -61,7 +61,7 @@ Slides|/files/slides_Power_of_Two_Choices.pdf|slides
 
 {% capture pub %}
 <span class="pub-title">The Speed of Social Learning with Pricing</span>  
-**<span class="author-highlight">Yan Dai</span>**, Brendan Lucier, Nicole Immorlica, Aleksandrs Slivkins.
+**<span class="author-highlight">Yan Dai</span>**, Nicole Immorlica, Brendan Lucier, Aleksandrs Slivkins.
 {% endcapture %}
 {% include pub-item.html venue="Working Paper" content=pub %}
 
