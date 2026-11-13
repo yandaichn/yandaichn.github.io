@@ -155,11 +155,20 @@ Preprint|https://arxiv.org/abs/2606.14929|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-artificialintelligence-share-7473477046187290627-FJo2|abstract
 " %}
 {% endcapture %}
-{% include pub-item.html venue="Under Review" content=pub %}
+{% include pub-item.html venue="Working Paper" content=pub %}
 </ul>
 
 # Reinforcement Learning Theory
 <ul class="pub-list">
+{% capture pub %}
+<a class="pub-title" href="https://arxiv.org/abs/2611.17214" target="_blank" rel="noopener">Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal √S and √K Dependencies in Tabular and Linear AMDPs</a>  
+Aarush Kulkarni, Khang Nguyen, William Chang, **<span class="author-highlight">Yan Dai</span>**.
+{% include pub-links.html links="
+Preprint|https://arxiv.org/abs/2611.17214|paper
+" %}
+{% endcapture %}
+{% include pub-item.html venue="Under Review" note="Mentoring Project" content=pub %}
+
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2402.07082" target="_blank" rel="noopener">Refined Sample Complexity for Markov Games with Independent Linear Function Approximation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Qiwen Cui, Simon S. Du.  
@@ -196,15 +205,6 @@ Video|https://neurips.cc/virtual/2022/poster/54395|video
 " %}
 {% endcapture %}
 {% include pub-item.html venue="NeurIPS" year="2022" content=pub %}
-
-{% capture pub %}
-<span class="pub-title">Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal √S and √K Dependencies in Tabular and Linear AMDPs</span>  
-Aarush Kulkarni, Khang Nguyen, William Chang, **<span class="author-highlight">Yan Dai</span>**.
-{% include pub-links.html links="
-PDF|https://github.com/sigact-stoc/stoc2027/releases/download/papers-1/84.pdf|paper
-" %}
-{% endcapture %}
-{% include pub-item.html venue="Under Review" note="Mentoring Project" content=pub %}
 
 <!-- {% capture pub %}
 <span class="pub-title">Learning Adversarial Continuous MDPs with Bandit Feedback and Unknown Transitions</span>  
