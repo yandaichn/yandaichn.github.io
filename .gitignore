@@ -1,5 +1,5 @@
 _site/
-
+.DS_Store
 !CV_Yan.pdf
 !files/
 !files/*.pdf
