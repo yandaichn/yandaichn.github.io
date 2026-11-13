@@ -165,6 +165,7 @@ Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-
 Aarush Kulkarni, Khang Nguyen, William Chang, **<span class="author-highlight">Yan Dai</span>**.
 {% include pub-links.html links="
 Preprint|https://arxiv.org/abs/2611.17214|paper
+Slides 45min|/files/slides_Introduced_Feedback_Delays_AMDPs.pdf|slides
 " %}
 {% endcapture %}
 {% include pub-item.html venue="Under Review" note="Mentoring Project" content=pub %}
