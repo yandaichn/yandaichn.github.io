@@ -13,7 +13,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2507.09473" target="_blank" rel="noopener">Efficiency, Feasibility, Incentive-Awareness in Constrained Online Resource Allocation</a>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, Patrick Jaillet.  
-**Under Review at *Operations Research*.**  
+**Major Revision at *Operations Research*.**  
 Early version accepted to NeurIPS 2025 <span class="pub-secondary">(under the title "Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints").</span><br>
 **<font color="red">1st place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025.  
 <details markdown="block">
@@ -147,7 +147,7 @@ Video|https://icml.cc/virtual/2022/spotlight/16610|video
 {% endcapture %}
 {% include pub-item.html venue="ICML" year="2022" content=pub %}
 
-{% capture pub %}
+<!-- {% capture pub %}
 <a class="pub-title" href="https://arxiv.org/abs/2606.14929" target="_blank" rel="noopener">Policy Regret for Embedding Model Routing: Contextual Bandits with Low-Rank Experts</a>  
 **<span class="author-highlight">Yan Dai</span>**, Negin Golrezaei, Patrick Jaillet.
 {% include pub-links.html links="
@@ -155,7 +155,7 @@ Preprint|https://arxiv.org/abs/2606.14929|paper
 Blog Post|https://www.linkedin.com/posts/negin-nikki-golrezaei-b5137229_llm-rag-artificialintelligence-share-7473477046187290627-FJo2|abstract
 " %}
 {% endcapture %}
-{% include pub-item.html venue="Working Paper" content=pub %}
+{% include pub-item.html venue="Working Paper" content=pub %} -->
 </ul>
 
 # Reinforcement Learning Theory
